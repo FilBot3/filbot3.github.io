@@ -2,12 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://predatorian3.github.io/</loc>
-     <lastmod>2019-10-01</lastmod>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/about/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/LaTeX/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/Roleplaying/Genesys/</loc>
+     <lastmod>2019-10-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://predatorian3.github.io/buildbot/</loc>
-     <lastmod>2019-10-01</lastmod>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/01-Docker/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/02-PostgreSQL/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/03-Vault/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/04-Master/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/05-Workers/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/06-Pipelines/</loc>
+     <lastmod>2019-10-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://predatorian3.github.io/buildbot/07-Master-Configurations/</loc>
+     <lastmod>2019-10-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
