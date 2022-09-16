@@ -5,6 +5,16 @@
     <link>https://filbot3.github.io/</link>
     <description>Recent content on FilBot3 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://filbot3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate><atom:link href="https://filbot3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://filbot3.github.io/about/</link>
+      <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
+      <guid>https://filbot3.github.io/about/</guid>
+      <description>About me! I am a human.
+Resume Visit the following link to view my Resume/CV. When finished, or you want to return to this page, use the back button in your web browser.
+Resume Resources This site was made with Hugo and the theme is Relearn. Automation is provided by Taskfile and GitHub for hosting the page and making this possible. The Relearn docs are located here</description>
+    </item>
   </channel>
 </rss>
