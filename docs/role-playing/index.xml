@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Role Playings on FilBot3 Blog</title>
+    <link>https://filbot3.github.io/role-playing/</link>
+    <description>Recent content in Role Playings on FilBot3 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Sep 2022 18:23:14 +0000</lastBuildDate><atom:link href="https://filbot3.github.io/role-playing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Role-Playing</title>
+      <link>https://filbot3.github.io/role-playing/solo-role-play/</link>
+      <pubDate>Wed, 28 Sep 2022 18:26:49 +0000</pubDate>
+      <guid>https://filbot3.github.io/role-playing/solo-role-play/</guid>
+      <description>What is solo role-playing? Solo Role-Playing is when you assume the role of both Player and Game Master and continue to tell a story and find out what happens next like you would in a normal game. However, to help simulate the feel of randomness or make decisions you use something called an Oracle. This Oracle helps determine the answer to Yes or No questions. There are also things called Seers or Muses, but these provide either combinations of words or pictures that are then used to answer complex questions or random events or when you&amp;rsquo;re just stuck.</description>
+    </item>
+  </channel>
+</rss>

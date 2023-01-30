@@ -8,14 +8,17 @@ vars:
 
 tasks:
   default:
+    desc: '[DEFAULT]'
     deps:
       - build
 
   build:
+    desc: Build the Hugo Site.
     cmds:
       - hugo
 
   serve:
+    desc: Build and Serve the Hugo Site.
     cmds:
-      - hugo server --buildDrafts
+      - hugo server --buildDrafts --bind=0.0.0.0
 ...
