@@ -2,10 +2,15 @@
 title: "Solo Roleplay"
 date: 2023-07-28T00:50:49Z
 draft: false
+description: |
+    What is this solo roleplaying thing? Is it journaling, hallucinating by
+    yourself, or just writing a story?
+tags:
+  - role-play
+  - solo-rpg
+  - ttrpg
+  - rpg
 ---
-What is this solo roleplaying thing? Is it journaling, hallucinating by
-yourself, or just writing a story?
-
 # Sole Role-play
 
 At the end of 2021 I got a big urge to play my role-playing games I had

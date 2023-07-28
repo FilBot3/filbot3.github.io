@@ -13,7 +13,7 @@ I am a human.
 Visit the following link to view my Resume/CV. When finished, or you want to
 return to this page, use the back button in your web browser.
 
-* [Resume](/resume)
+* [Resume](/resume.html)
 
 ## Resources
 
