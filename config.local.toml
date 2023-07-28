@@ -1,7 +1,7 @@
 canonifyURLs = true
 publishDir = 'docs'
 
-baseURL = 'https://filbot3.github.io/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Phils Blog'
 theme = "archie"

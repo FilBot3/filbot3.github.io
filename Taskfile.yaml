@@ -20,5 +20,5 @@ tasks:
   serve:
     desc: Build and Serve the Hugo Site.
     cmds:
-      - hugo server --buildDrafts --bind=0.0.0.0 {{.CLI_ARGS}}
+      - hugo --config=config.local.toml serve --buildDrafts --bind=0.0.0.0 {{.CLI_ARGS}}
 ...
