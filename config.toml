@@ -1,4 +1,7 @@
-baseURL = 'http://example.org/'
+canonifyURLs = true
+publishDir = 'docs'
+
+baseURL = 'https:filbot3.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "binario"
+title = 'Phils Blog'
+theme = "archie"

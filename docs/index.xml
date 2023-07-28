@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Phils Blog</title>
+    <link>https:filbot3.github.io/</link>
+    <description>Recent content on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:50:49 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 00:50:49 +0000</lastBuildDate><atom:link href="https:filbot3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solo Roleplay</title>
-      <link>http://example.org/posts/solo-roleplay/</link>
+      <link>https:filbot3.github.io/posts/solo-roleplay/</link>
       <pubDate>Fri, 28 Jul 2023 00:50:49 +0000</pubDate>
       
-      <guid>http://example.org/posts/solo-roleplay/</guid>
+      <guid>https:filbot3.github.io/posts/solo-roleplay/</guid>
       <description>What is this solo roleplaying thing? Is it journaling, hallucinating by yourself, or just writing a story?
 Sole Role-play At the end of 2021 I got a big urge to play my role-playing games I had collected before to read while playing the supposed &amp;ldquo;most popular game&amp;rdquo;. I had all of these book and I only ever got to read them, day dream, and then go roll a d20 and accept mediocre.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/posts/about/</link>
+      <link>https:filbot3.github.io/posts/about/</link>
       <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
       
-      <guid>http://example.org/posts/about/</guid>
+      <guid>https:filbot3.github.io/posts/about/</guid>
       <description>About me! I am a human.
 Resume Visit the following link to view my Resume/CV. When finished, or you want to return to this page, use the back button in your web browser.
 Resume Resources This site was made with Hugo and the theme is Archie. Automation is provided by Taskfile and GitHub for hosting the page and making this possible.</description>
