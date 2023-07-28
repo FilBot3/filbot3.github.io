@@ -1,10 +1,4 @@
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'FilBot3 Blog'
-theme = 'hugo-theme-relearn'
-baseURL = 'https://filbot3.github.io'
-canonifyURLs = true
-publishDir = 'docs'
-
-[params]
-  author = 'Phillip Dudley'
-  description = 'A blog for FilBot3 made by Hugo, ran by GitHub'
+title = 'My New Hugo Site'
+theme = "binario"
