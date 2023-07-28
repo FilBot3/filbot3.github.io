@@ -2,6 +2,9 @@
 title: "About"
 date: 2022-09-16T18:43:55Z
 draft: false
+tags:
+  - about-me
+  - about
 ---
 
 ## About me!
