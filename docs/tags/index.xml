@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Phils Blog</title>
+    <link>https://filbot3.github.io/tags/</link>
+    <description>Recent content in Tags on Phils Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 02:29:41 +0000</lastBuildDate><atom:link href="https://filbot3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rpg</title>
+      <link>https://filbot3.github.io/tags/rpg/</link>
+      <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/rpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tac</title>
+      <link>https://filbot3.github.io/tags/tac/</link>
+      <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/tac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttrpg</title>
+      <link>https://filbot3.github.io/tags/ttrpg/</link>
+      <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/ttrpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wordmillgames</title>
+      <link>https://filbot3.github.io/tags/wordmillgames/</link>
+      <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/wordmillgames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>role-play</title>
+      <link>https://filbot3.github.io/tags/role-play/</link>
+      <pubDate>Fri, 28 Jul 2023 00:50:49 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/role-play/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solo-rpg</title>
+      <link>https://filbot3.github.io/tags/solo-rpg/</link>
+      <pubDate>Fri, 28 Jul 2023 00:50:49 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/solo-rpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://filbot3.github.io/tags/about/</link>
+      <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about-me</title>
+      <link>https://filbot3.github.io/tags/about-me/</link>
+      <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/tags/about-me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

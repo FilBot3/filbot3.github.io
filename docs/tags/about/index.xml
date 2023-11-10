@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Phils Blog</title>
+    <link>https://filbot3.github.io/tags/about/</link>
+    <description>Recent content in about on Phils Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate><atom:link href="https://filbot3.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://filbot3.github.io/about/</link>
+      <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
+      
+      <guid>https://filbot3.github.io/about/</guid>
+      <description>About me! I am a human.
+Resume Visit the following link to view my Resume/CV. When finished, or you want to return to this page, use the back button in your web browser.
+Resume Resources This site was made with Hugo and the theme is Archie. Automation is provided by Taskfile and GitHub for hosting the page and making this possible.</description>
+    </item>
+    
+  </channel>
+</rss>
