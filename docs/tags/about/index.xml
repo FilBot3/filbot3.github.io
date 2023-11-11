@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://filbot3.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Phils Blog</title>
@@ -6,17 +7,184 @@
     <description>Recent content in about on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate><atom:link href="https://filbot3.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate>
+    <atom:link href="https://filbot3.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://filbot3.github.io/about/</link>
-      <pubDate>Fri, 16 Sep 2022 18:43:55 +0000</pubDate>
-      
-      <guid>https://filbot3.github.io/about/</guid>
-      <description>About me! I am a human.
-Resume Visit the following link to view my Resume/CV. When finished, or you want to return to this page, use the back button in your web browser.
-Resume Resources This site was made with Hugo and the theme is Archie. Automation is provided by Taskfile and GitHub for hosting the page and making this possible.</description>
+      <title>Use The Adventure Crafter With Microscope</title>
+      <link>https://filbot3.github.io/posts/use-tac-with-microscope/</link>
+      <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/use-tac-with-microscope/</guid>
+      <description>&lt;h2 id=&#34;what-are-ya-babblin-about&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#what-are-ya-babblin-about&#34;&gt;What are ya babblin&amp;rsquo; about?&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I am proposing using Word Mill Games&amp;rsquo; &lt;em&gt;The Adventure Crafter&lt;/em&gt; to play or
+generate &lt;em&gt;Microscope RPG&lt;/em&gt; Bookends, Periods, Events, and Scenes with &lt;em&gt;Mythic
+Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration.&lt;/p&gt;
+&lt;h3 id=&#34;resources&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#resources&#34;&gt;Resources&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lamemage.com/microscope/&#34;&gt;Microscope PRG | Lame Mage Productions&lt;/a&gt;, &lt;a href=&#34;https://lamemage.itch.io/microscope&#34;&gt;Itch.io&lt;/a&gt;, &lt;a href=&#34;https://www.drivethrurpg.com/product/91183/Microscope&#34;&gt;DriveThruRPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordmillgames.com/mythic.html&#34;&gt;Mythic | Word Mill Games&lt;/a&gt;, &lt;a href=&#34;https://www.drivethrurpg.com/product/422929/Mythic-Game-Master-Emulator-Second-Edition&#34;&gt;DriveThruRPG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordmillgames.com/adventure-crafter.html&#34;&gt;The Adventure Crafter&lt;/a&gt;, &lt;a href=&#34;https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter&#34;&gt;DriveThruRPG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-big-picture&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#the-big-picture&#34;&gt;The Big Picture&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pick a game&lt;/li&gt;
+&lt;li&gt;Use Mythic Element Meaning Tables for inspiration as to the overarching topic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bookend-history&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#bookend-history&#34;&gt;Bookend History&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;em&gt;The Adventure Crafter&lt;/em&gt; to generate &lt;code&gt;Turning Points&lt;/code&gt; for the BEGINNING and ENDING Bookends.&lt;/li&gt;
+&lt;li&gt;The ENDING Bookend doesn&amp;rsquo;t have to be a Conclusion, the future is unknown!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Use each &lt;code&gt;Plot Point&lt;/code&gt; as an EVENT when populating Events for Periods.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Roll up all &lt;code&gt;Plot Points&lt;/code&gt; into the Period&amp;rsquo;s details.&lt;/li&gt;
+&lt;li&gt;Determine &lt;code&gt;Tone&lt;/code&gt; for each Period generated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-palette&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#the-palette&#34;&gt;The Palette&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Take 10 minutes to think on YES/NO items to keep/toss from your game.&lt;/li&gt;
+&lt;li&gt;Be honest with yourself, explore your thoughts.&lt;/li&gt;
+&lt;li&gt;Write 2-5 of each list (not required).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Skip &lt;em&gt;The Palette&lt;/em&gt; step.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;legacies&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#legacies&#34;&gt;Legacies&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Legacies&lt;/em&gt; are common threads throughout the Periods, Events, and Scenes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Link to a MGME Thread or TAC Adventure plot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;order-of-operations&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#order-of-operations&#34;&gt;Order of Operations&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Found on Microscope RPG page 18.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the Flow&lt;/li&gt;
+&lt;li&gt;Declare the Focus&lt;/li&gt;
+&lt;li&gt;Pick or Make history&lt;/li&gt;
+&lt;li&gt;Ask Mythic &amp;ldquo;if this is a Legacy?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;forms-of-history&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#forms-of-history&#34;&gt;Forms of History&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Found on Microscope RPG page 20.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Periods (p.22)
+&lt;ul&gt;
+&lt;li&gt;Roll a 2d6+4 for the number of Periods to roll up.&lt;/li&gt;
+&lt;li&gt;Adjust as needed, maybe 2d4 + 4 if wanting smaller numbers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Events (p.24)
+&lt;ul&gt;
+&lt;li&gt;There should be at least 5 Events based upon the Plot Points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Scenes (p.29)
+&lt;ul&gt;
+&lt;li&gt;Scenes should come organically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;periods&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#periods&#34;&gt;Periods&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Decide when the Period is.
+&lt;ul&gt;
+&lt;li&gt;Roll a die or dice that is closest to the number of Periods created.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use the same procedures as the Bookend History.&lt;/li&gt;
+&lt;li&gt;Decide on Tone (Light or Dark).
+&lt;ul&gt;
+&lt;li&gt;Use your expectations or intuition. Otherwise, ask a Yes/No 50/50 CF:5 question.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Embellish a bit, you don&amp;rsquo;t have to use a Turning Point verbatim.&lt;/li&gt;
+&lt;li&gt;Try to avoid NONE results in Plot Points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;events&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#events&#34;&gt;Events&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Decide when the Event is.
+&lt;ul&gt;
+&lt;li&gt;Use the Period picking method.&lt;/li&gt;
+&lt;li&gt;Then roll a d10 or die closest to the number of Events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use the Plot Points as the basis for the Event (try to at least).&lt;/li&gt;
+&lt;li&gt;Use the MGME to embellish more details.&lt;/li&gt;
+&lt;li&gt;Decide on the final Tone (Light or Dark).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scenes&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#scenes&#34;&gt;Scenes&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Purpose your scene, check against Chaos Factor, just like Mythic Game Master Emulator.&lt;/li&gt;
+&lt;li&gt;Play out the Scene with MGME and/or your desired RPG.&lt;/li&gt;
+&lt;li&gt;Use the Period and Event as Context for how to play your Scene and asking questions.&lt;/li&gt;
+&lt;li&gt;Make liberal use of the MGME Meaning: Elements Tables.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
-    
+    <item>
+      <title>Solo Roleplay</title>
+      <link>https://filbot3.github.io/posts/solo-roleplay/</link>
+      <pubDate>Fri, 28 Jul 2023 00:50:49 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/solo-roleplay/</guid>
+      <description>&lt;h1 id=&#34;sole-role-play&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/solo-roleplay/#sole-role-play&#34;&gt;Sole Role-play&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;At the end of 2021 I got a big urge to play my role-playing games I had
+collected before to read while playing the supposed &amp;ldquo;most popular game&amp;rdquo;. I had
+all of these book and I only ever got to read them, day dream, and then go roll
+a d20 and accept mediocre. So, I had the idea to search YouTube for how to play
+role-playing games by yourself, and then I searched DriveThruRPG. I found a few
+YouTube channels at the time that had a running story and some people talking
+about game master emulators, but I thought I could do it better! I had heard
+about Ironsworn, but Powered by the Apocalypse games never really groked with me
+then, and I wanted to play something else. I had this stack of Genesys and Star
+Wars books and dice so I made a starting scene. Long story short, the story
+&amp;ldquo;finished&amp;rdquo;, but it ultimiately fizzled out because I didn&amp;rsquo;t know how to drive
+the &amp;ldquo;what&amp;rsquo;s next?&amp;rdquo; aspect. I bought a ton of supplements and most of them never
+really clicked for me. That was until I bought this little red book called
+Mythic Role Playing.&lt;/p&gt;
+&lt;p&gt;Mythic Role Playing, MRPG, is a role-playing game first published in 2003 by a
+little company called Word Mill Games. I say little, but it was really one
+person. The author, Tana Pigeon, wrote MRPG because she felt that role-playing
+games didn&amp;rsquo;t fulfill what she wanted. The Game Master Emulator section of MRPG
+became popular and then Mythic Game Master Emulator, MGME, was published. For
+nearly 20 years the MGME was the standard for solo role-playing for many people.
+This supplement helped me learn how to design a scene, test the expectations,
+and then alter or interrupt what I wanted. This allowed me to let go, trust the
+tables, and exercise my interpretation of what was going on and then lean into
+expectations again. However, I explored still. I then purchased the Game
+Master&amp;rsquo;s Apprentice decks, ALONe, DM Yourself, and GEMulator, but nothing
+resounded as much as Mythic.&lt;/p&gt;
+&lt;p&gt;Mythic has enlightened me and helped me master on-the-fly Game Mastering, and
+also idea generation that is within the context and fiction of the universe;
+even if I made it up all impromptu. I&amp;rsquo;ve been able to pick up games I have and
+test them out, play and learn the rules and mechanics before bringing it to the
+table. Then I&amp;rsquo;ve also found my energy for reading, studying, and mastering those
+rules. MGME has helped me figure out which games I actually enjoy playing rather
+than conceptually from reading.&lt;/p&gt;
+&lt;p&gt;As of early 2023, Word Mill Games, Tana Pigeon, released Mythic Game Master
+Emulator Second Edition with content and systems from 20 years, supplements, and
+magazine articles written for the system. I look forward to Mythic Role Playing
+Second Edition as well! Join the Discord group too!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wordmillgames.com&#34;&gt;https://www.wordmillgames.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
   </channel>
 </rss>

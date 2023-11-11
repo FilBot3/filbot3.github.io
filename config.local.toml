@@ -5,24 +5,27 @@ publishDir = 'docs'
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Phils Blog'
-theme = "archie"
+theme = "hugo-flex"
 
-[[menu.main]]
+[params]
+  summaries = true
+
+[[menu.nav]]
   name = "Home"
   url = "/"
   weight = 1
 
-[[menu.main]]
+[[menu.nav]]
   name = "All Posts"
   url = "/posts"
   weight = 2
 
-[[menu.main]]
+[[menu.nav]]
   name = "About"
   url = "/about"
   weight = 3
 
-[[menu.main]]
+[[menu.nav]]
   name = "Tags"
   url = "/tags"
   weight = 4
