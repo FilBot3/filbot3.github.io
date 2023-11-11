@@ -21,6 +21,6 @@ return to this page, use the back button in your web browser.
 ## Resources
 
 This site was made with [Hugo](https://gohugo.io) and the theme is
-[Archie](https://themes.gohugo.io/themes/archie/). Automation is provided by
+[Hugo Flex](https://themes.gohugo.io/themes/hugo-flex/). Automation is provided by
 [Taskfile](https://taskfile.dev) and [GitHub](https://github.com) for hosting
 the page and making this possible.
