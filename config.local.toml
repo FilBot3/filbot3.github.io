@@ -30,3 +30,7 @@ theme = "hugo-flex"
   url = "/tags"
   weight = 4
 
+[[menu.nav]]
+  name = "RSS"
+  url = "index.xml"
+  weight = 5
