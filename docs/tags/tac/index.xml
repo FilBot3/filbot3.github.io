@@ -10,6 +10,72 @@
     <lastBuildDate>Fri, 28 Jul 2023 02:29:41 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/tac/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My D6 Oracle Table</title>
+      <link>https://filbot3.github.io/posts/my-d6-oracle-table/</link>
+      <pubDate>Fri, 17 Nov 2023 00:11:32 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/my-d6-oracle-table/</guid>
+      <description>&lt;h1 id=&#34;my-d6-oracle-table&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#my-d6-oracle-table&#34;&gt;My D6 Oracle Table&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#overview&#34;&gt;Overview&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is a simple oracle table that is admidtely using the values from Ironsworn,
+and the &lt;code&gt;The No-Prep Gamemaster&lt;/code&gt; by Dicegeeks. It should be fairly simple. I use
+this during my live sessions to cut down on the amount of cross-referencing of
+tables and other things. Mythic Game Master Emulator&amp;rsquo;s Fate Chart is great for
+solo games or prep sessions.&lt;/p&gt;
+&lt;h2 id=&#34;the-oracle&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#the-oracle&#34;&gt;The Oracle&lt;/a&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;dice: 1d6&lt;/th&gt;
+&lt;th&gt;Oracle&lt;/th&gt;
+&lt;th&gt;Scenario&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Nope&lt;/td&gt;
+&lt;td&gt;Worse Case&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Almost Certain&lt;/td&gt;
+&lt;td&gt;Really Bad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Likely&lt;/td&gt;
+&lt;td&gt;Bad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;50/50&lt;/td&gt;
+&lt;td&gt;Okay&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Unlikely&lt;/td&gt;
+&lt;td&gt;Good&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Small Chance&lt;/td&gt;
+&lt;td&gt;Best Case&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;A roll of 1 on the Oracle table is always a NOPE. Every other value is meet or
+beat the value matching the odds of a Yes answer. The Scenario column adds
+flavor to the result from the oracle. You may get a Yes answer, but it may not
+be super favorable. Essentially, try to roll high on both columns.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Use The Adventure Crafter With Microscope</title>
       <link>https://filbot3.github.io/posts/use-tac-with-microscope/</link>
       <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>

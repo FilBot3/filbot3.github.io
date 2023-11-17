@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://filbot3.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>role-play on Phils Blog</title>
-    <link>https://filbot3.github.io/tags/role-play/</link>
-    <description>Recent content in role-play on Phils Blog</description>
+    <title>oracles on Phils Blog</title>
+    <link>https://filbot3.github.io/tags/oracles/</link>
+    <description>Recent content in oracles on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:50:49 +0000</lastBuildDate>
-    <atom:link href="https://filbot3.github.io/tags/role-play/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 00:11:32 +0000</lastBuildDate>
+    <atom:link href="https://filbot3.github.io/tags/oracles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My D6 Oracle Table</title>
       <link>https://filbot3.github.io/posts/my-d6-oracle-table/</link>
