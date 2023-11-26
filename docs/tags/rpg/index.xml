@@ -7,8 +7,240 @@
     <description>Recent content in rpg on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 00:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 17:51:00 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Play Impromptu Pbta</title>
+      <link>https://filbot3.github.io/posts/how-to-play-impromptu-pbta/</link>
+      <pubDate>Sun, 26 Nov 2023 17:51:00 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/how-to-play-impromptu-pbta/</guid>
+      <description>&lt;p&gt;Sometimes I just wanna play a role-playing game at a restaurant while waiting
+for food or when at the office. With the availability of 2d6 in most stores or
+board games, or the power of a mobile device, dice are easy to come by. I
+recently read and played &lt;em&gt;World of Dungeons&lt;/em&gt; and &lt;em&gt;FIST&lt;/em&gt; after re-reading Dungeon
+World and struggling with Ironsworn initially. I had to learn how to GM, be a
+player, then realize the kinds of games I liked while soloing. Doing this, I
+realized that understanding the actionable intent of a character and the
+obstacle present in the given context can help make a dice roll more dramatic or
+not even needed. I still play Index Card RPG Master Edition, Worlds Without
+Number, EZD6, Basic Roleplaying and other games, but Powered by the Apocalypse
+had always intrigued me. I think after reading World of Dungeons and Simple
+World, it finally clicked.&lt;/p&gt;
+&lt;p&gt;What I am presenting here isn&amp;rsquo;t a whole new game or anything but using the core
+of PbtA to tell a story cooperatively based upon player action and their goals.
+This is all thanks to Powered by the Apocalypse of Apocalypse World by Vincent
+Baker.&lt;/p&gt;
+&lt;h3 id=&#34;make-a-character&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#make-a-character&#34;&gt;Make a Character&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Grab a napkin or index card and a pen or pencil and follow the steps.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define 3-6 Attributes.
+&lt;ul&gt;
+&lt;li&gt;For example: Strength, Dexterity, Willpower.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Assign 3 Points amongst the Attributes.
+&lt;ul&gt;
+&lt;li&gt;I would stick with 3-6 points.&lt;/li&gt;
+&lt;li&gt;Generally the same number of points as the number of attributes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Write down 6 Wounds&lt;/li&gt;
+&lt;li&gt;Write down 1 Background statement.&lt;/li&gt;
+&lt;li&gt;Write down 1 Profession statement.&lt;/li&gt;
+&lt;li&gt;Write down 1 Connection statement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If a setting is provided, the players may want to choose a goal. For impromptu
+sessions this may be handled by the GM for the scenario.&lt;/p&gt;
+&lt;h3 id=&#34;rolling-dice&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#rolling-dice&#34;&gt;Rolling Dice&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Take 2d6.&lt;/li&gt;
+&lt;li&gt;Decide which attribute to use.
+&lt;ul&gt;
+&lt;li&gt;Add the attribute points to the total of 2d6.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If any statements about your character fit the situation, add +1 to the result.&lt;/li&gt;
+&lt;li&gt;Compare against the Results Chart below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Roll 2d6&lt;/th&gt;
+&lt;th&gt;Results&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Double-Ones*&lt;/td&gt;
+&lt;td&gt;Critical Failure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6 or less&lt;/td&gt;
+&lt;td&gt;Failure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7-9&lt;/td&gt;
+&lt;td&gt;Partial Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10 or higher&lt;/td&gt;
+&lt;td&gt;Full Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Double-Sixes*&lt;/td&gt;
+&lt;td&gt;Critical Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;*&lt;/code&gt; - Optional results.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-play&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#how-to-play&#34;&gt;How to play&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GM defines the situation.&lt;/li&gt;
+&lt;li&gt;Player states their character&amp;rsquo;s intention.&lt;/li&gt;
+&lt;li&gt;GM and Player work out the success result and what failure would look like.&lt;/li&gt;
+&lt;li&gt;Roll the dice.&lt;/li&gt;
+&lt;li&gt;If Full Success, the desired intent happens.&lt;/li&gt;
+&lt;li&gt;If Partial Success, the desired intent happens but a complication happens as well.&lt;/li&gt;
+&lt;li&gt;If Failure, the action doesn&amp;rsquo;t happen and the opponent gets and advantage or action.&lt;/li&gt;
+&lt;li&gt;Repeat the process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s break down the cycle of operations listed out.&lt;/p&gt;
+&lt;p&gt;First, the Game Master (GM) defines the situation, the location, and any
+opponents, challenges, or obstacles. This should be pretty bog standard for
+anyone who&amp;rsquo;s been a GM or likes imagining this kind of stuff. I&amp;rsquo;ve been in a
+paranormal mercenary mood recently with monstrous or strange entities. So, in
+this situation the team of Player Characters (PCs) are working their way into
+the basement of an ever changing layout corporate office building to retrieve an
+anomalous artifact. However, there is a counter operative team working to secure
+their research for corporate interests.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As your team rounds the corner of the hallway, it opens into a conference room where you see a capsule made of glass and you see the artifact on a pedestal in the middle of the capsule.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Next, the Players state their intentions. These are usually defined as
+&amp;ldquo;actions&amp;rdquo;. Most other games allow the PCs a move and an action. So, the player
+states what they want their operative to do this round.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Player&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I tell the team to cover me as I work my way to the capsule. Looking for traps and trip wires.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You see laser trips at ankle height. Your character is proficient enough to know to step over them. However, as you&amp;rsquo;re approaching the capsule dodging the trip lasers, you see a counter op team. They open fire! &lt;em&gt;What do you do?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Player&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I move to cover behind a pillar and return fire, allowing my team mates to move up to assist.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now, this is where I think most people find difficult or challenging,
+negotiation. The rules for combat aren&amp;rsquo;t exactly defined as something you&amp;rsquo;d find
+in a tactical game where exact measurements are used. You certainly could, but
+we&amp;rsquo;re impromptu. Let&amp;rsquo;s take into account the current Context of the scene: in a
+conference room like a hotel or office building or library; then we&amp;rsquo;re dodging
+the laser trips; then we&amp;rsquo;re being fired upon. So, the GM states this and a
+possible complication for the player.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Okay, so you&amp;rsquo;re returning fire at the group of operatives shooting at you. Roll 2d6 plus your DEX score to hit an inflict a wound to the group. If you get a Partial Success you&amp;rsquo;ll take a wound as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Player&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Because I&amp;rsquo;m behind cover, would we reduce that to a piece of equipment is broken? Maybe the enemies move positions too.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sure, but you&amp;rsquo;ll act with a -1 penalty next round to any action without them moving.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Player&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Deal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Roll them bones.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s a contrite example and hard for some to conceptualize since they&amp;rsquo;re not
+familiar with the expectations I&amp;rsquo;m leaning upon.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s explain some more gamified specifics.&lt;/p&gt;
+&lt;h3 id=&#34;game-specifics&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#game-specifics&#34;&gt;Game specifics&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Damage&lt;/strong&gt; is &lt;em&gt;flattened&lt;/em&gt; to be 1 wound per success when attacking. This could
+also be negotiated to 2 wounds when getting a Critical Success or when the
+attack narratively makes sense like using a grenade or close range shotgun.&lt;/p&gt;
+&lt;p&gt;There should always be a &lt;strong&gt;Complication&lt;/strong&gt; when performing an action. This helps
+drive the &lt;em&gt;Partial Success&lt;/em&gt; and &lt;em&gt;Failure&lt;/em&gt;. If the GM doesn&amp;rsquo;t know what a
+Complication for a given actionable intent is, they should look at the current
+Context and use that, or if there isn&amp;rsquo;t a known complication, then there isn&amp;rsquo;t a
+roll. If the players are willing, they can help provide contextual
+complications. Not all groups are into this though, so mileage varies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weapons and Gear&lt;/strong&gt; aren&amp;rsquo;t necessarily spelled out either. Since we&amp;rsquo;re
+impromptu and narrative, it&amp;rsquo;s assumed you&amp;rsquo;re in possession of the gear you need.
+If this were a longer term and planned out game session, I&amp;rsquo;d have a buying
+system, meta currencies and a bunch of stuff.&lt;/p&gt;
+&lt;p&gt;In this example I didn&amp;rsquo;t specify or use a &lt;strong&gt;Statement&lt;/strong&gt; about the PC in the
+scene. If the Player invoked one of their Statements, then they&amp;rsquo;d get to add a
++1 to their total results. These Statements also allow the PC to do things
+special or have access to things other characters may not get. It might even
+eliminate the need for a roll if the actionable intent is within the wheel
+house. The only thing I&amp;rsquo;m going to put my feet down on is that you cannot skip
+combat unless the Players and GM agree to doing an action like &amp;ldquo;Battle&amp;rdquo; where
+the whole combat is handled in a single roll.&lt;/p&gt;
+&lt;h3 id=&#34;but-i-want-a-d20&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#but-i-want-a-d20&#34;&gt;But, I want a d20&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Some people have a strong &lt;del&gt;dependence&lt;/del&gt; preference for using a d20 instead of
+2d6. Here&amp;rsquo;s the same resolution mechanic using a d20.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Roll d20&lt;/th&gt;
+&lt;th&gt;Results&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Natural 1*&lt;/td&gt;
+&lt;td&gt;Critical Failure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9 or less&lt;/td&gt;
+&lt;td&gt;Failure&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10-15&lt;/td&gt;
+&lt;td&gt;Partial Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16+&lt;/td&gt;
+&lt;td&gt;Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Natural 20*&lt;/td&gt;
+&lt;td&gt;Critical Success&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Same Bonuses for the Attributes.&lt;/li&gt;
+&lt;li&gt;Maybe make Statement add +2 instead of +1.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>My D6 Oracle Table</title>
       <link>https://filbot3.github.io/posts/my-d6-oracle-table/</link>
