@@ -4,7 +4,7 @@ date: 2023-12-02T21:50:20Z
 description: |
   For the year of 2024, play a scene a day, a turning point a week, an adventure
   a month, making a campaign in a year.
-draft: true
+draft: false
 ---
 ## Overview
 
