@@ -69,3 +69,11 @@ This is an example from a game I ran a while ago where the players were
 investigating an asteroid mining station looking for a missing individual.
 
 ![An A5 Journal Spread of polyhedral prep notes.](images/journal.jpg)
+
+![](images/polyhedral-on-trace-paper.jpg)
+
+![](images/belter-station.jpg)
+
+![](images/icrpg-sector-map.jpg)
+
+![](./images/polyhedral-dungeon.jpg)
