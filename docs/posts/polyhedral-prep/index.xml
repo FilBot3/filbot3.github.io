@@ -1,88 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://filbot3.github.io/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Phils Blog</title>
-    <link>https://filbot3.github.io/tags/about/</link>
-    <description>Recent content in About on Phils Blog</description>
+    <title>Content Placeholder on Phils Blog</title>
+    <link>http://localhost:1313/posts/polyhedral-prep/</link>
+    <description>Recent content in Content Placeholder on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate>
-    <atom:link href="https://filbot3.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Polyhedral Prep</title>
-      <link>https://filbot3.github.io/posts/polyhedral-prep/</link>
-      <pubDate>Thu, 18 Apr 2024 20:53:00 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/polyhedral-prep/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#overview&#34;&gt;Overview&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;This is an attempt to explain how I&amp;rsquo;m using &amp;ldquo;polyhedral frames&amp;rdquo; as I&amp;rsquo;ve been
-calling them to prepare adventure locations, battle maps, and space sectors
-and what not. This is not an original concept, but I took the &amp;ldquo;Site Preparation&amp;rdquo;
-from &lt;a href=&#34;https://bit.ly/mbplaytest&#34;&gt;Mythic Bastionland&lt;/a&gt; and expand upon it a bit to
-give more variation and feel for various locations. In Mythic Bastionland, Chris
-shows how to use a &amp;ldquo;Hex&amp;rdquo; to build a Site, or anything to be explored. This to me
-stood out as a d6 on its side showing the point at you. So, I decided to use
-other role-playing dice polyhedrals. You&amp;rsquo;ll see the frames further down.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-polyhedral-prep&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#what-is-polyhedral-prep&#34;&gt;What is Polyhedral Prep?&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;I use the term: Polyhedral Prep, because I saw RPG Dice called Polyhedrals, so
-it stuck. After having these frames I didn&amp;rsquo;t know what to do next with them. It
-wasn&amp;rsquo;t until reading Mythic Bastionland and Electric Bastionland that I came to
-the conclusion I could use these as a sort of &amp;ldquo;dungeon madlib&amp;rdquo; by giving each
-vertex a location and each connection or line an encounter; very much like
-Electric Bastionland Boroughs. So, I numbered each vertex and line/connection.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/polyhedral-prep/images/Polyhedral_Frames.png&#34; alt=&#34;Image of Dice Polyhedrals with verticies and connections
-numbered.&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-do-i-use-this-method&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#how-do-i-use-this-method&#34;&gt;How do I use this method?&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;For this example, we&amp;rsquo;ll be defining a small Site, or dungeon using the d6 frame.
-Using the guidelines from Mythic Bastionland, we define an entrance and a couple
-open pathways, one or two closed paths and a secret path. Each vertex then gets
-a keyword pair. You&amp;rsquo;ll want to use an Oracle Descriptor Table like the ones
-found in Mythic Game Master Emulator Second Edition or Ironsworn Starforged
-(Ironsworn doesn&amp;rsquo;t have a description oracle). Locations get descriptors that
-fit within the context of the site. So if it is a dungeon and we roll something
-like: Haunted/Outpost, it seems pretty inspiring so far. Huanted, maybe this
-dungeon is loaded full of spirits. Outpost in a dungeon, that could be a lookout
-room or tower. Maybe this is a fort full of spirits of soldiers that man the
-ramparts. Bam, we have our first location in the site. Now we repeat the process
-for each vertex staying within context. Make sure to use your other previous
-locations in the site to inform how you intperet and make the rest of the
-locations.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s do a connection or encounter. For this we&amp;rsquo;ll want an action site as we
-need to interact with the PCs instead of them interacting with the location.
-Think active versus passive. So, we&amp;rsquo;ll roll: Sieze/Superstition. My first
-thought is to think of how I can make this an active encounter to engage the PC.
-How do I seize? Could be a grab trap, could be someone trying to steal my soul,
-or something. We could also do seize of breath because of fear. Maybe, when the
-PCs go down connection/encounter (1), they see an apprition of the boss spirit
-of the Site, quick all PCs make a WIS Save! Any that fail, then have
-disadvantage on checks and must make the check again when facing the BBEG later
-one. Bam.&lt;/p&gt;
-&lt;p&gt;I then repeat this process for each location (vertex) and each encounter
-(connection). Make sure you spread out a few locations with loot or lore as well
-and not just encounters. Something else I do is add an NPC per location if it&amp;rsquo;s
-a populated location that isn&amp;rsquo;t immediately hostile for the PCs to talk to. If
-it&amp;rsquo;s a hostile Site, just key the room as you would a traditional dungeon.&lt;/p&gt;
-&lt;h2 id=&#34;an-example&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#an-example&#34;&gt;An example!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;This is an example from a game I ran a while ago where the players were
-investigating an asteroid mining station looking for a missing individual.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/journal.jpg&#34; alt=&#34;An A5 Journal Spread of polyhedral prep notes.&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 18 Apr 2024 20:53:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/polyhedral-prep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Changing Up Binary Pass Fail</title>
-      <link>https://filbot3.github.io/posts/changing-up-binary-pass-fail/</link>
+      <link>http://localhost:1313/posts/changing-up-binary-pass-fail/</link>
       <pubDate>Mon, 15 Apr 2024 01:21:36 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/changing-up-binary-pass-fail/</guid>
+      <guid>http://localhost:1313/posts/changing-up-binary-pass-fail/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/changing-up-binary-pass-fail/#overview&#34;&gt;Overview&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/changing-up-binary-pass-fail/#overview&#34;&gt;Overview&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;I was thinking on this after discussing it with some people who don&amp;rsquo;t want to
 play certain games like Genesys or even Powered by the Apocalypse. Why? I can
@@ -91,7 +24,7 @@ continue playing with their standard binary pass-fail results, but enable those
 who want to negotiate or barter their rolls so they can do cool stuff
 narratively.&lt;/p&gt;
 &lt;h2 id=&#34;binary-pass-fail&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/changing-up-binary-pass-fail/#binary-pass-fail&#34;&gt;Binary Pass-Fail&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/changing-up-binary-pass-fail/#binary-pass-fail&#34;&gt;Binary Pass-Fail&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;This is my take on it, but binary pass-fail is simply, you pass or you fail.
 When you roll a check, regardless of how many dice you roll or what kinds you
@@ -118,7 +51,7 @@ The next thing the GM could&amp;rsquo;ve done was wait until after all of that w
 say, &amp;ldquo;You find nothing&amp;rdquo; because they spent all the time searching. BUT, we&amp;rsquo;re
 here to discuss that die roll.&lt;/p&gt;
 &lt;h2 id=&#34;what-can-we-do-to-help-that&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/changing-up-binary-pass-fail/#what-can-we-do-to-help-that&#34;&gt;What can we do to help that?&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/changing-up-binary-pass-fail/#what-can-we-do-to-help-that&#34;&gt;What can we do to help that?&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;If the GM knows that there is something in the suspect&amp;rsquo;s house, then what I am
 proposing is a &amp;ldquo;fail-forward&amp;rdquo; using a binary result. If the PC fails their
@@ -133,7 +66,7 @@ but then you&amp;rsquo;re also getting that in other games like FATE or PbtA alr
 situations that want that success, but at a cost, or realize they failed, but
 get a boon to the game.&lt;/p&gt;
 &lt;h2 id=&#34;tldr&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/changing-up-binary-pass-fail/#tldr&#34;&gt;TL;DR&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/changing-up-binary-pass-fail/#tldr&#34;&gt;TL;DR&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Instead of pass-fail rolls, allow bartering for success at a great cost or
@@ -143,11 +76,11 @@ fail for a boon in the story or setting up an advantage for someone else.&lt;/li
     </item>
     <item>
       <title>Challenge Solo24</title>
-      <link>https://filbot3.github.io/posts/challenge-solo24/</link>
+      <link>http://localhost:1313/posts/challenge-solo24/</link>
       <pubDate>Sat, 02 Dec 2023 21:50:20 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/challenge-solo24/</guid>
+      <guid>http://localhost:1313/posts/challenge-solo24/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/challenge-solo24/#overview&#34;&gt;Overview&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/challenge-solo24/#overview&#34;&gt;Overview&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;At the beginning of 2023, Sean McCoy put out a challenge that each day, creators
 create a room of a dungeon a day that builds into mega dungeon of sorts. Then
@@ -155,14 +88,14 @@ keep all of this in a journal for future use. This was called Dungeon23 for
 2023. It&amp;rsquo;s a practice of patience and making sure to stick with something.&lt;/p&gt;
 &lt;p&gt;I want to propose a challenge for 2024 called Solo24.&lt;/p&gt;
 &lt;h3 id=&#34;resources&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/challenge-solo24/#resources&#34;&gt;Resources&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/challenge-solo24/#resources&#34;&gt;Resources&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://seanmccoy.substack.com/p/dungeon23&#34;&gt;#dungeon23 | Sean McCoy (substack)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://monstersmazes.blogspot.com/2023/11/hexplore24.html&#34;&gt;#hexplore24 | Monsters &amp;amp; Mazes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;solo24&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/challenge-solo24/#solo24&#34;&gt;Solo24&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/challenge-solo24/#solo24&#34;&gt;Solo24&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;These are the rules.&lt;/p&gt;
 &lt;ul&gt;
@@ -192,7 +125,7 @@ keep all of this in a journal for future use. This was called Dungeon23 for
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;random-genres&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/challenge-solo24/#random-genres&#34;&gt;Random Genres&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/challenge-solo24/#random-genres&#34;&gt;Random Genres&lt;/a&gt;
 &lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -232,9 +165,9 @@ keep all of this in a journal for future use. This was called Dungeon23 for
     </item>
     <item>
       <title>How to Play Impromptu Pbta</title>
-      <link>https://filbot3.github.io/posts/how-to-play-impromptu-pbta/</link>
+      <link>http://localhost:1313/posts/how-to-play-impromptu-pbta/</link>
       <pubDate>Sun, 26 Nov 2023 17:51:00 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/how-to-play-impromptu-pbta/</guid>
+      <guid>http://localhost:1313/posts/how-to-play-impromptu-pbta/</guid>
       <description>&lt;p&gt;Sometimes I just wanna play a role-playing game at a restaurant while waiting
 for food or when at the office. With the availability of 2d6 in most stores or
 board games, or the power of a mobile device, dice are easy to come by. I
@@ -252,7 +185,7 @@ of PbtA to tell a story cooperatively based upon player action and their goals.
 This is all thanks to Powered by the Apocalypse of Apocalypse World by Vincent
 Baker.&lt;/p&gt;
 &lt;h3 id=&#34;make-a-character&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#make-a-character&#34;&gt;Make a Character&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/how-to-play-impromptu-pbta/#make-a-character&#34;&gt;Make a Character&lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;Grab a napkin or index card and a pen or pencil and follow the steps.&lt;/p&gt;
 &lt;ul&gt;
@@ -275,7 +208,7 @@ Baker.&lt;/p&gt;
 &lt;p&gt;If a setting is provided, the players may want to choose a goal. For impromptu
 sessions this may be handled by the GM for the scenario.&lt;/p&gt;
 &lt;h3 id=&#34;rolling-dice&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#rolling-dice&#34;&gt;Rolling Dice&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/how-to-play-impromptu-pbta/#rolling-dice&#34;&gt;Rolling Dice&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Take 2d6.&lt;/li&gt;
@@ -321,7 +254,7 @@ sessions this may be handled by the GM for the scenario.&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;*&lt;/code&gt; - Optional results.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;how-to-play&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#how-to-play&#34;&gt;How to play&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/how-to-play-impromptu-pbta/#how-to-play&#34;&gt;How to play&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;GM defines the situation.&lt;/li&gt;
@@ -398,7 +331,7 @@ possible complication for the player.&lt;/p&gt;
 familiar with the expectations I&amp;rsquo;m leaning upon.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s explain some more gamified specifics.&lt;/p&gt;
 &lt;h3 id=&#34;game-specifics&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#game-specifics&#34;&gt;Game specifics&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/how-to-play-impromptu-pbta/#game-specifics&#34;&gt;Game specifics&lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Damage&lt;/strong&gt; is &lt;em&gt;flattened&lt;/em&gt; to be 1 wound per success when attacking. This could
 also be negotiated to 2 wounds when getting a Critical Success or when the
@@ -422,7 +355,7 @@ house. The only thing I&amp;rsquo;m going to put my feet down on is that you can
 combat unless the Players and GM agree to doing an action like &amp;ldquo;Battle&amp;rdquo; where
 the whole combat is handled in a single roll.&lt;/p&gt;
 &lt;h3 id=&#34;but-i-want-a-d20&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/how-to-play-impromptu-pbta/#but-i-want-a-d20&#34;&gt;But, I want a d20&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/how-to-play-impromptu-pbta/#but-i-want-a-d20&#34;&gt;But, I want a d20&lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;Some people have a strong &lt;del&gt;dependence&lt;/del&gt; preference for using a d20 instead of
 2d6. Here&amp;rsquo;s the same resolution mechanic using a d20.&lt;/p&gt;
@@ -464,14 +397,14 @@ the whole combat is handled in a single roll.&lt;/p&gt;
     </item>
     <item>
       <title>My D6 Oracle Table</title>
-      <link>https://filbot3.github.io/posts/my-d6-oracle-table/</link>
+      <link>http://localhost:1313/posts/my-d6-oracle-table/</link>
       <pubDate>Fri, 17 Nov 2023 00:11:32 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/my-d6-oracle-table/</guid>
+      <guid>http://localhost:1313/posts/my-d6-oracle-table/</guid>
       <description>&lt;h1 id=&#34;my-d6-oracle-table&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#my-d6-oracle-table&#34;&gt;My D6 Oracle Table&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/my-d6-oracle-table/#my-d6-oracle-table&#34;&gt;My D6 Oracle Table&lt;/a&gt;
 &lt;/h1&gt;
 &lt;h2 id=&#34;overview&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#overview&#34;&gt;Overview&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/my-d6-oracle-table/#overview&#34;&gt;Overview&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;This is a simple oracle table that is admidtely using the values from Ironsworn,
 and the &lt;code&gt;The No-Prep Gamemaster&lt;/code&gt; by Dicegeeks. It should be fairly simple. I use
@@ -479,7 +412,7 @@ this during my live sessions to cut down on the amount of cross-referencing of
 tables and other things. Mythic Game Master Emulator&amp;rsquo;s Fate Chart is great for
 solo games or prep sessions.&lt;/p&gt;
 &lt;h2 id=&#34;the-oracle&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/my-d6-oracle-table/#the-oracle&#34;&gt;The Oracle&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/my-d6-oracle-table/#the-oracle&#34;&gt;The Oracle&lt;/a&gt;
 &lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -530,17 +463,17 @@ be super favorable. Essentially, try to roll high on both columns.&lt;/p&gt;
     </item>
     <item>
       <title>Use The Adventure Crafter With Microscope</title>
-      <link>https://filbot3.github.io/posts/use-tac-with-microscope/</link>
+      <link>http://localhost:1313/posts/use-tac-with-microscope/</link>
       <pubDate>Fri, 28 Jul 2023 02:29:41 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/use-tac-with-microscope/</guid>
+      <guid>http://localhost:1313/posts/use-tac-with-microscope/</guid>
       <description>&lt;h2 id=&#34;what-are-ya-babblin-about&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#what-are-ya-babblin-about&#34;&gt;What are ya babblin&amp;rsquo; about?&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#what-are-ya-babblin-about&#34;&gt;What are ya babblin&amp;rsquo; about?&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;I am proposing using Word Mill Games&amp;rsquo; &lt;em&gt;The Adventure Crafter&lt;/em&gt; to play or
 generate &lt;em&gt;Microscope RPG&lt;/em&gt; Bookends, Periods, Events, and Scenes with &lt;em&gt;Mythic
 Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration.&lt;/p&gt;
 &lt;h3 id=&#34;resources&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#resources&#34;&gt;Resources&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#resources&#34;&gt;Resources&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.lamemage.com/microscope/&#34;&gt;Microscope PRG | Lame Mage Productions&lt;/a&gt;, &lt;a href=&#34;https://lamemage.itch.io/microscope&#34;&gt;Itch.io&lt;/a&gt;, &lt;a href=&#34;https://www.drivethrurpg.com/product/91183/Microscope&#34;&gt;DriveThruRPG&lt;/a&gt;&lt;/li&gt;
@@ -548,14 +481,14 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;&lt;a href=&#34;https://wordmillgames.com/adventure-crafter.html&#34;&gt;The Adventure Crafter&lt;/a&gt;, &lt;a href=&#34;https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter&#34;&gt;DriveThruRPG&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-big-picture&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#the-big-picture&#34;&gt;The Big Picture&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#the-big-picture&#34;&gt;The Big Picture&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Pick a game&lt;/li&gt;
 &lt;li&gt;Use Mythic Element Meaning Tables for inspiration as to the overarching topic.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;bookend-history&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#bookend-history&#34;&gt;Bookend History&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#bookend-history&#34;&gt;Bookend History&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Use &lt;em&gt;The Adventure Crafter&lt;/em&gt; to generate &lt;code&gt;Turning Points&lt;/code&gt; for the BEGINNING and ENDING Bookends.&lt;/li&gt;
@@ -565,7 +498,7 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;Determine &lt;code&gt;Tone&lt;/code&gt; for each Period generated.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-palette&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#the-palette&#34;&gt;The Palette&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#the-palette&#34;&gt;The Palette&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Take 10 minutes to think on YES/NO items to keep/toss from your game.&lt;/li&gt;
@@ -574,14 +507,14 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Skip &lt;em&gt;The Palette&lt;/em&gt; step.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;legacies&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#legacies&#34;&gt;Legacies&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#legacies&#34;&gt;Legacies&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Legacies&lt;/em&gt; are common threads throughout the Periods, Events, and Scenes.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;OPTIONAL&lt;/strong&gt;: Link to a MGME Thread or TAC Adventure plot.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;order-of-operations&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#order-of-operations&#34;&gt;Order of Operations&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#order-of-operations&#34;&gt;Order of Operations&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Found on Microscope RPG page 18.&lt;/p&gt;
 &lt;ul&gt;
@@ -591,7 +524,7 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;Ask Mythic &amp;ldquo;if this is a Legacy?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;forms-of-history&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#forms-of-history&#34;&gt;Forms of History&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#forms-of-history&#34;&gt;Forms of History&lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Found on Microscope RPG page 20.&lt;/p&gt;
 &lt;ul&gt;
@@ -613,7 +546,7 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;periods&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#periods&#34;&gt;Periods&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#periods&#34;&gt;Periods&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Decide when the Period is.
@@ -631,7 +564,7 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;Try to avoid NONE results in Plot Points.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;events&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#events&#34;&gt;Events&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#events&#34;&gt;Events&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Decide when the Event is.
@@ -645,7 +578,7 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
 &lt;li&gt;Decide on the final Tone (Light or Dark).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;scenes&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/use-tac-with-microscope/#scenes&#34;&gt;Scenes&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/use-tac-with-microscope/#scenes&#34;&gt;Scenes&lt;/a&gt;
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Purpose your scene, check against Chaos Factor, just like Mythic Game Master Emulator.&lt;/li&gt;
@@ -657,11 +590,11 @@ Game Master Emulator&lt;/em&gt; sprinkled in for decision making and inspiration
     </item>
     <item>
       <title>Solo Roleplay</title>
-      <link>https://filbot3.github.io/posts/solo-roleplay/</link>
+      <link>http://localhost:1313/posts/solo-roleplay/</link>
       <pubDate>Fri, 28 Jul 2023 00:50:49 +0000</pubDate>
-      <guid>https://filbot3.github.io/posts/solo-roleplay/</guid>
+      <guid>http://localhost:1313/posts/solo-roleplay/</guid>
       <description>&lt;h1 id=&#34;sole-role-play&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/solo-roleplay/#sole-role-play&#34;&gt;Sole Role-play&lt;/a&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://localhost:1313/posts/solo-roleplay/#sole-role-play&#34;&gt;Sole Role-play&lt;/a&gt;
 &lt;/h1&gt;
 &lt;p&gt;At the end of 2021 I got a big urge to play my role-playing games I had
 collected before to read while playing the supposed &amp;ldquo;most popular game&amp;rdquo;. I had

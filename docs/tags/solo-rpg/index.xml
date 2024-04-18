@@ -10,6 +10,73 @@
     <lastBuildDate>Fri, 28 Jul 2023 00:50:49 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/solo-rpg/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Polyhedral Prep</title>
+      <link>https://filbot3.github.io/posts/polyhedral-prep/</link>
+      <pubDate>Thu, 18 Apr 2024 20:53:00 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/polyhedral-prep/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#overview&#34;&gt;Overview&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is an attempt to explain how I&amp;rsquo;m using &amp;ldquo;polyhedral frames&amp;rdquo; as I&amp;rsquo;ve been
+calling them to prepare adventure locations, battle maps, and space sectors
+and what not. This is not an original concept, but I took the &amp;ldquo;Site Preparation&amp;rdquo;
+from &lt;a href=&#34;https://bit.ly/mbplaytest&#34;&gt;Mythic Bastionland&lt;/a&gt; and expand upon it a bit to
+give more variation and feel for various locations. In Mythic Bastionland, Chris
+shows how to use a &amp;ldquo;Hex&amp;rdquo; to build a Site, or anything to be explored. This to me
+stood out as a d6 on its side showing the point at you. So, I decided to use
+other role-playing dice polyhedrals. You&amp;rsquo;ll see the frames further down.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-polyhedral-prep&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#what-is-polyhedral-prep&#34;&gt;What is Polyhedral Prep?&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I use the term: Polyhedral Prep, because I saw RPG Dice called Polyhedrals, so
+it stuck. After having these frames I didn&amp;rsquo;t know what to do next with them. It
+wasn&amp;rsquo;t until reading Mythic Bastionland and Electric Bastionland that I came to
+the conclusion I could use these as a sort of &amp;ldquo;dungeon madlib&amp;rdquo; by giving each
+vertex a location and each connection or line an encounter; very much like
+Electric Bastionland Boroughs. So, I numbered each vertex and line/connection.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/polyhedral-prep/images/Polyhedral_Frames.png&#34; alt=&#34;Image of Dice Polyhedrals with verticies and connections
+numbered.&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-do-i-use-this-method&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#how-do-i-use-this-method&#34;&gt;How do I use this method?&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;For this example, we&amp;rsquo;ll be defining a small Site, or dungeon using the d6 frame.
+Using the guidelines from Mythic Bastionland, we define an entrance and a couple
+open pathways, one or two closed paths and a secret path. Each vertex then gets
+a keyword pair. You&amp;rsquo;ll want to use an Oracle Descriptor Table like the ones
+found in Mythic Game Master Emulator Second Edition or Ironsworn Starforged
+(Ironsworn doesn&amp;rsquo;t have a description oracle). Locations get descriptors that
+fit within the context of the site. So if it is a dungeon and we roll something
+like: Haunted/Outpost, it seems pretty inspiring so far. Huanted, maybe this
+dungeon is loaded full of spirits. Outpost in a dungeon, that could be a lookout
+room or tower. Maybe this is a fort full of spirits of soldiers that man the
+ramparts. Bam, we have our first location in the site. Now we repeat the process
+for each vertex staying within context. Make sure to use your other previous
+locations in the site to inform how you intperet and make the rest of the
+locations.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s do a connection or encounter. For this we&amp;rsquo;ll want an action site as we
+need to interact with the PCs instead of them interacting with the location.
+Think active versus passive. So, we&amp;rsquo;ll roll: Sieze/Superstition. My first
+thought is to think of how I can make this an active encounter to engage the PC.
+How do I seize? Could be a grab trap, could be someone trying to steal my soul,
+or something. We could also do seize of breath because of fear. Maybe, when the
+PCs go down connection/encounter (1), they see an apprition of the boss spirit
+of the Site, quick all PCs make a WIS Save! Any that fail, then have
+disadvantage on checks and must make the check again when facing the BBEG later
+one. Bam.&lt;/p&gt;
+&lt;p&gt;I then repeat this process for each location (vertex) and each encounter
+(connection). Make sure you spread out a few locations with loot or lore as well
+and not just encounters. Something else I do is add an NPC per location if it&amp;rsquo;s
+a populated location that isn&amp;rsquo;t immediately hostile for the PCs to talk to. If
+it&amp;rsquo;s a hostile Site, just key the room as you would a traditional dungeon.&lt;/p&gt;
+&lt;h2 id=&#34;an-example&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/polyhedral-prep/#an-example&#34;&gt;An example!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is an example from a game I ran a while ago where the players were
+investigating an asteroid mining station looking for a missing individual.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/journal.jpg&#34; alt=&#34;An A5 Journal Spread of polyhedral prep notes.&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Changing Up Binary Pass Fail</title>
       <link>https://filbot3.github.io/posts/changing-up-binary-pass-fail/</link>
       <pubDate>Mon, 15 Apr 2024 01:21:36 +0000</pubDate>
