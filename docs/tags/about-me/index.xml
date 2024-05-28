@@ -10,6 +10,117 @@
     <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cyclic Dungeon Generation</title>
+      <link>https://filbot3.github.io/posts/cyclic-dungeon-generation/</link>
+      <pubDate>Tue, 28 May 2024 00:59:54 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/cyclic-dungeon-generation/</guid>
+      <description>&lt;p&gt;For a while, I had many people tell me to try using the &lt;a href=&#34;https://sersavictory.itch.io/cyclic-dungeon-generation&#34;&gt;Cyclic Dungeon
+Generation&lt;/a&gt; method as
+found and detailed on itch.io by Sersa Victory. For a while, I would read the
+document and get confused on how to envision the end result or how the dungeon
+worked. What I am going to show is not the BE ALL END ALL method, as this
+probably work differently for other people. So, I will show some images,
+describe the cycles drawn, and then how I pieced it together to get a final
+result. The book Cyclic Dungeon Generation has a wonderful walk through and an
+example dungeon using that result. I suggest reading it once or twice, then also
+trying to do your own while following the tutorial.&lt;/p&gt;
+&lt;h2 id=&#34;things-youll-need&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#things-youll-need&#34;&gt;Things you&amp;rsquo;ll need&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Index Cards 3x5&lt;/li&gt;
+&lt;li&gt;Marker or Pencil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;drawing-cycles&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#drawing-cycles&#34;&gt;Drawing Cycles?&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Yep. I made some cards to draw cycles instead of rolling them. One because I had
+a deck of blank cards to work with, and cards are fun sometimes. Here&amp;rsquo;s what
+they look like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-Cycles-Cards.jpg&#34; alt=&#34;Image of Cyclic Dungeon cycles on
+cards&#34;&gt;&lt;/p&gt;
+&lt;p&gt;These are all found in the book originally.&lt;/p&gt;
+&lt;p&gt;So I followed the tutorial on Page 6-7. I drew the first cycle, then at the
+first two insertion points, I drew two other cycles. I felt that was enough to
+start with to get the feel for doing this manually.&lt;/p&gt;
+&lt;h2 id=&#34;the-complete-cycle-flowchart&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#the-complete-cycle-flowchart&#34;&gt;The complete cycle flowchart&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;After I drew my cards for the cycles, I wrote them on a piece of paper and drew
+it as demonstrated in the book. I drew Cycle 11, Cycle 10, and Cycle 03.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-01-Flowchart.jpg&#34; alt=&#34;The initial flowchart of my Cyclic
+Dungeon&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is still a little hard to mentally visualize for me as I know I&amp;rsquo;m going in
+a circle, but the start is over there? Then where is the goal? How do I go back?
+Hopefully visually mapping it helps.&lt;/p&gt;
+&lt;h2 id=&#34;mapping-the-first-cycle&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#mapping-the-first-cycle&#34;&gt;Mapping the first cycle&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I took my index cards and tore them in half (or cut them if you&amp;rsquo;re fancy). I
+then wrote down the words as shown on my cycle flowchart. I then laid the card
+halves out as shown.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-02-Initial-Cycle.jpg&#34; alt=&#34;Initial cycle diagram made out of index
+cards&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This works for me, and helps me get the initial flow down. What is hard to do
+whend drawing on paper or using digital tools is knowing that the initial
+cycle&amp;rsquo;s goal gets stretched out as you insert more cycles. So, let&amp;rsquo;s insert a
+second cycle.&lt;/p&gt;
+&lt;h2 id=&#34;inserting-the-second-cycle&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#inserting-the-second-cycle&#34;&gt;Inserting the second cycle&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Now we&amp;rsquo;ll insert a second cycle. For this, I chose the bottom one with the
+secret path to our key. So, I moved the Goal back, and replaced Insert Point
+with the cycle.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-03-Including-Second-Cycle.jpg&#34; alt=&#34;The second cycle insertion with a hidden
+path&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I decided to rotate the cycle as well so that the start made sense, and the two
+insertion points we&amp;rsquo;re not using get turned into extra rooms for encounters or
+breather rooms. Here, you should see the loop where the key is and kind of
+visualize where the logical flow of the dungeon goes.&lt;/p&gt;
+&lt;h2 id=&#34;inserting-our-final-cycle&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#inserting-our-final-cycle&#34;&gt;Inserting our final cycle&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;For our final (second) cycle, I took the cards and elongated the cycle making it
+a line instead. To me it made more sense to do this. In the final result you&amp;rsquo;ll
+see kind of what I was thinking and I&amp;rsquo;ll explain more.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-04-Full-Cycle.jpg&#34; alt=&#34;The third cycle insertion with a false
+goal&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The cycle had the &amp;ldquo;true goal&amp;rdquo; which was really just editing the cycle in this
+case, but if it were the key insertion point, then the true goal would&amp;rsquo;ve been
+the key.&lt;/p&gt;
+&lt;h2 id=&#34;final-results&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#final-results&#34;&gt;Final Results&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;After I laid out the index cards and maneuvered them so that they made sense on
+my table, I then drew this on paper. Some liberties were taken.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/images/CDG-05-End-Result.jpg&#34; alt=&#34;The final result
+dungeon&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll see the the entry point, then we go to the left, following the hallway
+and are presented with our first &amp;ldquo;False Goal&amp;rdquo;. After I drew this, did the
+hatching, I realized I should&amp;rsquo;ve made the false goal room similar to the actual
+goal room and then have a surprise, or something. Live and you learn. Then you
+make your way down two more rooms that may have encounters or lore spouts. The
+final boss, BUT, the doors are locked, so we need the key! Our adventurers then
+would need to traverse the halls more, and either percept the hidden path or
+traverse the other two rooms and then perform some sort of task to get the key.
+I would also then show the hidden path as a viable route similar to Skyrim
+showing that the Players should always search or just as a repreive from having
+to go all the way around. Thenn they can go back and unlock the boss doors, and
+let the murdering ensue.&lt;/p&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/cyclic-dungeon-generation/#final-thoughts&#34;&gt;Final Thoughts&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I do enjoy the Cyclic Dungeon Generation method. It was a little abstract for me
+at the onset because I hadn&amp;rsquo;t thought about dungeons in this way even though I
+had seen them in other video games like Dark Souls, Legend of Zelda, and many
+others. Doing this manual large blown out way helped me to visually identify
+what it was actually doing and then draw it. I also found it a little easier
+than doing this in a drawing tools like &lt;a href=&#34;https://excalidraw.com&#34;&gt;Excalidraw&lt;/a&gt;. Go
+pick up the book, read it out loud to yourself so you see, say, and hear it and
+then practice the cycle method. Good luck!&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Polyhedral Prep</title>
       <link>https://filbot3.github.io/posts/polyhedral-prep/</link>
       <pubDate>Thu, 18 Apr 2024 20:53:00 +0000</pubDate>
