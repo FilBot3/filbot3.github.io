@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filbot3.github.io/posts/cyclic-dungeon-generation/</loc>
-    <lastmod>2024-05-28T00:59:54+00:00</lastmod>
+    <loc>https://filbot3.github.io/posts/making-rmu-characters/</loc>
+    <lastmod>2024-09-29T17:31:23+00:00</lastmod>
   </url><url>
     <loc>https://filbot3.github.io/</loc>
-    <lastmod>2024-05-28T00:59:54+00:00</lastmod>
+    <lastmod>2024-09-29T17:31:23+00:00</lastmod>
   </url><url>
     <loc>https://filbot3.github.io/posts/</loc>
+    <lastmod>2024-09-29T17:31:23+00:00</lastmod>
+  </url><url>
+    <loc>https://filbot3.github.io/posts/cyclic-dungeon-generation/</loc>
     <lastmod>2024-05-28T00:59:54+00:00</lastmod>
   </url><url>
     <loc>https://filbot3.github.io/posts/polyhedral-prep/</loc>

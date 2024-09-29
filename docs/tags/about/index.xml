@@ -10,6 +10,403 @@
     <lastBuildDate>Fri, 16 Sep 2022 18:43:55 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Making Rolemaster Unified Characters</title>
+      <link>https://filbot3.github.io/posts/making-rmu-characters/</link>
+      <pubDate>Sun, 29 Sep 2024 17:31:23 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/making-rmu-characters/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#overview&#34;&gt;Overview&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I finally went through and created a Rolemaster character from scratch by
+reading the book and not using the ERA or having someone else help me do it.
+Here&amp;rsquo;s what I learned.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to try to provide bullet point lists and page references with parts of
+the sheet I did. Hopefully this will be helpful.&lt;/p&gt;
+&lt;p&gt;I find Rolemaster to be a supremely rewarding role-playing game because you
+literally can do anything you want, given time and resources poured into skills.
+A fighter could learn to cast spells, and a spell caster can learn to perform
+arts. However, the scary part of Rolemaster is the up front character builder
+options and decisions to make. This looks imposing as the character sheet is
+near tax form level, but once you get your initial build down, and a couple
+advancements, you&amp;rsquo;ll be chucking dice real fast.&lt;/p&gt;
+&lt;p&gt;Some other neat things about Rolemaster is that the Critical Tables in the Arms
+Law are fun to use in any other role-playing game and the Spell Law is usable as
+well as is with nearly any game. It&amp;rsquo;s real neat.&lt;/p&gt;
+&lt;p&gt;From here on out, I&amp;rsquo;ll be referring to Rolemaster Unified as &lt;code&gt;RMU&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;pre-build-supplies&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#pre-build-supplies&#34;&gt;Pre-build Supplies&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Before jumping into your character build, players should have the following
+supplies ready to build the PC and record any purchases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grid Graph Paper&lt;/li&gt;
+&lt;li&gt;Pencil with eraser&lt;/li&gt;
+&lt;li&gt;One to three sets of d100 dice.
+&lt;ul&gt;
+&lt;li&gt;One is a 1-0, and the other is 10-00.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Character Sheet(s)
+&lt;ul&gt;
+&lt;li&gt;One or two copies of the character sheets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One thing that can make this helpful is pre-filling out the skills sheets with
+the various Profession advancement costs and professional skills already marked.
+However, this would depend on your GM or the community to provide something like
+that.&lt;/p&gt;
+&lt;p&gt;You could totally use a digital tool like Obsidian, Notion, LogSeq, or JoplinApp
+to do the character creation record as well.&lt;/p&gt;
+&lt;h2 id=&#34;rmu-build-process&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#rmu-build-process&#34;&gt;RMU Build Process&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;character-concept&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-concept&#34;&gt;Character Concept&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.18-20 - Section 2.1 Background.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because RMU is a &amp;ldquo;generic fantasy&amp;rdquo; game, and is flexible with how characters are
+built, just like GURPS, HERO System, Basic Roleplaying, or Genesys, it is
+important to have a character concept to build and lean into. Other games use
+classes to provide a pre-planned progression path. So, take sometime, talk with
+the GM and understand the setting. If you&amp;rsquo;re playing solo, generate your
+setting, and then build your PC to fit.&lt;/p&gt;
+&lt;p&gt;Something to do will be to look over the &lt;em&gt;Races&lt;/em&gt;, &lt;em&gt;Cultures&lt;/em&gt;, &lt;em&gt;Professions&lt;/em&gt;, and
+&lt;em&gt;Talents&lt;/em&gt; to help inform what is available, unless your GM is making custom
+elements of their game.&lt;/p&gt;
+&lt;h3 id=&#34;character-race&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-race&#34;&gt;Character Race&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.20-49 - Section 2.2 Races.
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.21 - Table 2-2a Races&lt;/li&gt;
+&lt;li&gt;RMU Core Law p.48 - Table 2-2b Race Sizes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This choice will be based upon your character concept. Your character concept is
+probably informed by this choice as well. The information on the tables are
+useful for those who know what they want and where to put the data. For those
+who are shopping around, or are new to the game, the pages between are useful
+for learning more about the implied setting and tone of RMU.&lt;/p&gt;
+&lt;p&gt;For my first build, I&amp;rsquo;m choosing a &lt;code&gt;Human, Common&lt;/code&gt; since it is fairly easy to
+work with as the only notable thing that this race gets is extra Development
+Points or DP. The Race Sizes table isn&amp;rsquo;t real useful for me, but it is nice to
+have to fill in and give yourself some reference points to imagine the size and
+form of your character.&lt;/p&gt;
+&lt;h3 id=&#34;character-culture&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-culture&#34;&gt;Character Culture&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.49-52 - Section 2.3 Culture.
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.51 - Table 2-3 Cultures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Race is what you&amp;rsquo;re character was born as, but Culture is what your character
+grew up doing before taking on the mantle of adventurer. The table on p.51 is
+useful for quickly assigning Ranks to your Skills, but reading each Culture has
+some extra Skills suggested for skills that have multiple specializations. Of
+course, you&amp;rsquo;re free to do whatever you want that you think fits in your
+Culture&amp;rsquo;s tropes.&lt;/p&gt;
+&lt;p&gt;Make sure to read p.49 because it details some good information about Lore
+Skills and Language Skill. Language Skills are split between Spoken and Written
+ranks. The languages available are defined as part of the setting you&amp;rsquo;re playing
+in.&lt;/p&gt;
+&lt;h3 id=&#34;character-professions&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-professions&#34;&gt;Character Professions&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.53-70 - Section 2.4 Professions
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.58 - Table 2-4a Profession Skill Costs.&lt;/li&gt;
+&lt;li&gt;RMU Core Law p.59 - Table 2-4b Professional Skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This section is where we pick what our character will be good at. Ideally, this
+is defined in your character concept and informed a bit by your Culture.
+However, you&amp;rsquo;re free to deviate and be weird, because we all do it in our lives.
+The tables listed yet again provide quick build access for those who know what
+they want, but each Profession has a detail section, Professional Skills, and
+the Skill Category Costs for this profession. Later on when purchasing skills,
+leaning into these Professional Skills listed will help define and give your
+character niches to work within for the rest of the party.&lt;/p&gt;
+&lt;p&gt;You also get to give 1 Rank distributed among 10 Professional Skills.&lt;/p&gt;
+&lt;p&gt;Then pick 2 more skills, and give those a +5 Knack bonus. This is not a rank,
+but just a +5 bonus.&lt;/p&gt;
+&lt;h3 id=&#34;generating-character-stats&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#generating-character-stats&#34;&gt;Generating character stats&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.70-73 - Section 2.5 Stats.
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.71 - Table 2-5a Stat Bonuses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the initial meat of the character. Roll d100 three times, taking the
+highest for Potential Stat, middle for Temporary Stat, and discard the lowest.
+If none of the dice result in a value of 12 or higher, re-roll your stat rolls.
+Make sure to follow the steps and recommendations on p.72 for generating and
+raising low stats. These stats are important later in the skills portion, but
+any low skills can have their temporary rating raised to their potential rating.
+High potential ratings mean that the character has the chance to get better if
+their temporary stat is low.&lt;/p&gt;
+&lt;p&gt;Stat Bonuses are calculated based off of the Temporary Stat Score. This is
+important as your character progresses in life.&lt;/p&gt;
+&lt;h3 id=&#34;character-skills&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-skills&#34;&gt;Character Skills&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.73-74 - Section 2.6 Skills &amp;amp; Talents, 82-112 - Chapter 3 Skills.
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.82 - Table 3-0a Skill Summary.&lt;/li&gt;
+&lt;li&gt;RMU Core Law p.84 - Table 3-0b Skill Ranks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see by the large page count in the Skills chapter, it&amp;rsquo;s kind of
+important. Characters start with 60 DP plus any Racial DP as well. I interpret
+the spending as, your character gets 60+(Race DP Bonus), but you can only use up
+to 25 of your Racial DP until entirely spent. So for a Common Human with 50
+extra DP, this means that they would get 85 DP for the first two levels to help
+give them a bit of a boost in life. After that, they&amp;rsquo;re at the same 60 DP like
+everyone else.&lt;/p&gt;
+&lt;p&gt;Filling in your skills is important as ranks in certain skills inform other
+parts of your character such as Basic Movement Rate, Hit Points, Defensive
+Bonus, and Offensive Bonus, plus a few others. Skills cost a number of DP per
+Rank when improving. These usually have two numbers listed, the first is the
+first rank&amp;rsquo;s cost, the second is the second rank&amp;rsquo;s cost. The way I read this is
+that if you only have two numbers listed, you can only buy ranks twice per
+advancement. If there are 3 numbers listed, then you can elect to buy three
+ranks for those costs. I recommend leaning into your Professional Skills first
+until you&amp;rsquo;ve bought 2 ranks in each. Then you can get into what I call &amp;ldquo;hobby
+skills&amp;rdquo; or things your character may have picked up along the way in their life.&lt;/p&gt;
+&lt;p&gt;Fill in the Skill Category&amp;rsquo;s Bonuses by using the Stat Bonuses listed. Then for
+each skill, fill in the default score. Some of them may be positive, some may be
+negative. It&amp;rsquo;s okay! You&amp;rsquo;ll have chances to grow out of these negatives and
+offset those by putting ranks in those skills. As noted on p.83, any skill that
+doesn&amp;rsquo;t have a rank associated with it starts at a -25 bonus to any rolls. These
+are offset by Stat Bonuses, or by Culture Skill Ranks. Rank vs Score or Bonus
+mean different things. Ranks use the Skill Ranks table on p.84 to calculate the
+bonus, and Bonus or Score simply add the value to the end result Skill Bonus.&lt;/p&gt;
+&lt;p&gt;Some skills will have specializations. Work with the GM to define the Lores,
+Languages, and if your crafts, vocations, and other specializations are
+relevant.&lt;/p&gt;
+&lt;p&gt;Spells, Power Skills, and other magic related skills have a different way to
+figure out their skill bonuses, but that&amp;rsquo;s covered in RMU Spell Law. (see
+further on in the article for more information).&lt;/p&gt;
+&lt;h3 id=&#34;character-talents&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#character-talents&#34;&gt;Character Talents&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.114-122 - Chapter 4 Talents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IF you have extra DP to spend, and it fits your character concept, and the GM
+allows it, your starting character may purchase a Talent or few. These are boons
+and banes to your character. Boons cost DP, and Banes give you back DP.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t focus too much on Talents during my character creations, so I don&amp;rsquo;t
+have much in the way of experience or advice.&lt;/p&gt;
+&lt;h3 id=&#34;finishing-touches&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#finishing-touches&#34;&gt;&amp;ldquo;Finishing Touches&amp;rdquo;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This section is a bit of a lie, because you&amp;rsquo;ll have to buy gear, hop around and
+fill in other spots, so it&amp;rsquo;s kind of a cop out of providing an entire
+comprehensive list or how-to when doing character creation. So, that means we
+need to read more of the book carefully in order to fill in various other spots
+on our character sheet. However, that&amp;rsquo;s why I&amp;rsquo;m writing this.&lt;/p&gt;
+&lt;h4 id=&#34;basic-movement-rate&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#basic-movement-rate&#34;&gt;Basic Movement Rate&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches, p.128 - Section 5.3 Movement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BMR is defaulted at 20 feet plus half Quickness Bonus rounded-up and modified by
+Stride.&lt;/p&gt;
+&lt;h4 id=&#34;hit-points&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#hit-points&#34;&gt;Hit Points&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hits are equal to the character&amp;rsquo;s Racial base plus Body Development Skill Bonus.
+Then modify based upon the character size if not medium.&lt;/p&gt;
+&lt;h4 id=&#34;defensive-bonus&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#defensive-bonus&#34;&gt;Defensive Bonus&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Defensive Bonus, DB, is equal to 3x Quickness Stat Bonus.&lt;/p&gt;
+&lt;h4 id=&#34;endurance&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#endurance&#34;&gt;Endurance&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches, p.129-130 - Section 5.5 Fatigue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Encumbrance is equal to Body Development Skill Bonus plus endurance modifier for
+the character&amp;rsquo;s race.&lt;/p&gt;
+&lt;h4 id=&#34;encumbrance&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#encumbrance&#34;&gt;Encumbrance&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches, p.128-129 - Section 5.4 Encumbrance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;equipment&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#equipment&#34;&gt;Equipment&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.134-149 - Chapter 6 Equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Characters start with a certain amount of Silver, sp, as listed in Table 6-0a
+Starting Money. My character was Poor, so they started with 10sp. This was
+enough to buy somethings, but there were in debt a little bit by the end. All
+the more reason to go adventuring. I&amp;rsquo;m not sure why it&amp;rsquo;s 10sp per level when I&amp;rsquo;m
+starting at level 1, but I suppose this is if you&amp;rsquo;re starting at a higher level
+than just 1.&lt;/p&gt;
+&lt;p&gt;Typically, a nice GM would create a &amp;ldquo;starting pack&amp;rdquo; or some sort to get
+characters going. This could also be part of a benefactor that the characters
+work for.&lt;/p&gt;
+&lt;h5 id=&#34;gear&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#gear&#34;&gt;Gear&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.137-139 - Table 6-3 General Equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;weapons&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#weapons&#34;&gt;Weapons&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.141-142 - Table 6-5 Weapons.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Weapons do not provide Offensive Bonuses, that is based upon your Skill Bonus
+for the listed type of weapon. The weapon then is given a specialization
+category that enables the character to better wield the weapon. When attacking,
+the weapon&amp;rsquo;s Attack defines the Attack Table to use when resolving combat. This
+could be a melee weapon, ranged weapon, or if using simple Magic or Spell Law,
+spells as well.&lt;/p&gt;
+&lt;h5 id=&#34;armor&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#armor&#34;&gt;Armor&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.140 - Table 6-4 Armor and Shields, p.148 - Table 7-2b Armor Types.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Armor doesn&amp;rsquo;t necessarily provide Defensive Bonuses, only shields do. What Armor
+does is provide an Armor Type, AT, that then informs Attack Tables how many hits
+and if a Critical Hit is achieved. Higher AT&amp;rsquo;s may get hit more, but they don&amp;rsquo;t
+crit as much, where lower ATs may get hit, but may crit a lot sooner.&lt;/p&gt;
+&lt;h4 id=&#34;initiative&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#initiative&#34;&gt;Initiative&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Initiative bonus is equal to Quickness Stat Bonus.&lt;/p&gt;
+&lt;h4 id=&#34;power-points&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#power-points&#34;&gt;Power Points&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Power Points, PP, is equal to the character&amp;rsquo;s Power Development Skill Bonus.&lt;/p&gt;
+&lt;h4 id=&#34;resistance-rolls&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#resistance-rolls&#34;&gt;Resistance Rolls&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;RMU Core Law p.74 - Section 2.7 Finishing Touches, p.131-132 - Section 5.6 Resistance Rolls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are 5 Resistances. Each are based on a Stat Bonus, Level, Race and
+anything special. You get +2 per level, and +10 for resistance to magic of your
+own realm, like Essence, Arcane, Mentalism and such.&lt;/p&gt;
+&lt;h3 id=&#34;other-little-gotchas&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#other-little-gotchas&#34;&gt;Other little gotchas&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Some things I had a rough time figuring out without reading each page and
+scrutinizing all the tables were things like Passive Dodge, or Passive Block.
+These are listed in &lt;code&gt;RMU Core Law&#39;s Arms Law p.167 - Table 9-5 The Attack Roll&lt;/code&gt;.
+Here, players would go down the table adding or subtracting values from the
+final roll.&lt;/p&gt;
+&lt;p&gt;Passive Block is +1 DB per Shield Rank, where a Full Block is just the Shield
+Skill Bonus. Passive Dodge is +1 DB per Movement Skill Rank, and a Full Dodge is
+the specific Movement Skill Bonus. Which movement skill? That depends on how
+you&amp;rsquo;re moving and whether or not you&amp;rsquo;re doing a run by, swim, climb or fly by.&lt;/p&gt;
+&lt;p&gt;Everything else on the character sheet first page is pretty self-explanatory
+where it provides the formulas to determine the values that go in there. These
+may be adjusted as characters advance and stats and skills go up or down.&lt;/p&gt;
+&lt;h2 id=&#34;time-to-start-play&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#time-to-start-play&#34;&gt;Time to start play&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Woof. Well, now that we&amp;rsquo;ve done all this, the rest of the game is simple. Roll
+percentile dice, add your Skill Bonus, and attempt to roll higher than the
+Maneuver Chart on &lt;code&gt;RMU Core Law p.125 - Table 5-1 Maneuvers&lt;/code&gt;. If attacking, Roll
+the same as a Maneuver, but subtract the defender&amp;rsquo;s DB and then consult the
+Attack Tables in the RMU Arms Law section. The game is really simple, it&amp;rsquo;s just
+character initialization that is daunting.&lt;/p&gt;
+&lt;p&gt;As you play, and ask questions, the GM will make rulings as any other
+role-playing game, but after the session, the GM and Players should consult the
+various rule books and see if they can figure out if there is a defined rule for
+the situation in question. If there is not, make a ruling, write it down, and
+you&amp;rsquo;ve become a game designer. These home rules will most likely need tweaking,
+but try to not get hung up on exactness.&lt;/p&gt;
+&lt;h2 id=&#34;magic-users-and-spell-lists&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#magic-users-and-spell-lists&#34;&gt;Magic Users and Spell Lists&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;So, you&amp;rsquo;re really raring to play a Spell Caster of some sort. There are a few
+realms of spell casting in RMU. There is: Channeling, Essence, and Mentalism.
+Each of these have Base, Open, Closed, and Restricted Spell Lists. I believe
+there is also an Arcane realm, but that&amp;rsquo;s a bit different. On the character
+sheet, you&amp;rsquo;ll notice &lt;code&gt;RS+RS+ME&lt;/code&gt;, this is RS == Realm Stat. The Realm Stat can be
+found in &lt;code&gt;RMU Spell Law p.15 - Section 2.2 Realms of Magic&lt;/code&gt;. For Channeling,
+this is Intuition (In) stat.&lt;/p&gt;
+&lt;h2 id=&#34;spell-lists-and-skills&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#spell-lists-and-skills&#34;&gt;Spell Lists and Skills&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spell Lists are chosen as Skills when choosing a Profession.&lt;/li&gt;
+&lt;li&gt;Each Skill Rank in a chosen Spell List lets the caster cast spells of the same Rank/Level.
+&lt;ul&gt;
+&lt;li&gt;3 Skill Ranks in Concussion&amp;rsquo;s Ways means the caster can cast Light Exposure Relief.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the playground for the magically minded player. So many choices.
+Depending on the amount of DP you have in the beginning and whether or not
+you buy any talents, you may need to start with one or two spell lists
+with at least one or skill ranks per Spell List. This would enable the
+spell caster to be more useful as they&amp;rsquo;re primarily focusing on their
+magic. Again, you can focus on whatever you want to develop character
+skill wise.&lt;/p&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/making-rmu-characters/#final-thoughts&#34;&gt;Final Thoughts&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Kind of a misnomer, but these are some thoughts I have after doing this process
+twice, and learning more about the character generation. While the vast array of
+character sheets seem daunting and overwhelming, the majority of them are not
+used until you start investing development points into the various skills or
+getting magical items and gear. This means to me that most of the daunting work
+is in the actual character initialization and concept crafting. Professional
+Skills are there to help guide you in what you should specialize in, but you&amp;rsquo;re
+free to do whatever you want as compared to other games that bind you to one or
+two classes. The actual game play is fairly easy and quick to get going. Actual
+game play will come later on in another post once I get a few solo sessions in
+before getting players at the table.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re still flabbergasted, there is something called an ERA or Electronic
+Roleplay Assistant, for Rolemaster. You need to buy the ERA and the various
+source material, but then creating characters is a snap in the program. However,
+I did find it more confusing trying to use the ERA before doing a couple manual
+character builds. Do the hard thing first, then the easy stuff will make more
+sense.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Cyclic Dungeon Generation</title>
       <link>https://filbot3.github.io/posts/cyclic-dungeon-generation/</link>
       <pubDate>Tue, 28 May 2024 00:59:54 +0000</pubDate>
