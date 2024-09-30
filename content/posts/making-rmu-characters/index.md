@@ -69,8 +69,8 @@ elements of their game.
 ### Character Race
 
 - RMU Core Law p.20-49 - Section 2.2 Races.
-    - RMU Core Law p.21 - Table 2-2a Races
-    - RMU Core Law p.48 - Table 2-2b Race Sizes
+  - RMU Core Law p.21 - Table 2-2a Races
+  - RMU Core Law p.48 - Table 2-2b Race Sizes
 
 This choice will be based upon your character concept. Your character concept is
 probably informed by this choice as well. The information on the tables are
@@ -87,7 +87,7 @@ form of your character.
 ### Character Culture
 
 - RMU Core Law p.49-52 - Section 2.3 Culture.
-    - RMU Core Law p.51 - Table 2-3 Cultures.
+  - RMU Core Law p.51 - Table 2-3 Cultures.
 
 Race is what you're character was born as, but Culture is what your character
 grew up doing before taking on the mantle of adventurer. The table on p.51 is
@@ -104,8 +104,8 @@ in.
 ### Character Professions
 
 - RMU Core Law p.53-70 - Section 2.4 Professions
-    - RMU Core Law p.58 - Table 2-4a Profession Skill Costs.
-    - RMU Core Law p.59 - Table 2-4b Professional Skills.
+  - RMU Core Law p.58 - Table 2-4a Profession Skill Costs.
+  - RMU Core Law p.59 - Table 2-4b Professional Skills.
 
 This section is where we pick what our character will be good at. Ideally, this
 is defined in your character concept and informed a bit by your Culture.
@@ -116,7 +116,8 @@ the Skill Category Costs for this profession. Later on when purchasing skills,
 leaning into these Professional Skills listed will help define and give your
 character niches to work within for the rest of the party.
 
-You also get to give 1 Rank distributed among 10 Professional Skills.
+You also get to give a +1 Bonus distributed among 10 Professional Skills out of
+the 15 listed.
 
 Then pick 2 more skills, and give those a +5 Knack bonus. This is not a rank,
 but just a +5 bonus.
@@ -124,7 +125,7 @@ but just a +5 bonus.
 ### Generating character stats
 
 - RMU Core Law p.70-73 - Section 2.5 Stats.
-    - RMU Core Law p.71 - Table 2-5a Stat Bonuses
+  - RMU Core Law p.71 - Table 2-5a Stat Bonuses
 
 This is the initial meat of the character. Roll d100 three times, taking the
 highest for Potential Stat, middle for Temporary Stat, and discard the lowest.
@@ -141,8 +142,8 @@ important as your character progresses in life.
 ### Character Skills
 
 - RMU Core Law p.73-74 - Section 2.6 Skills & Talents, 82-112 - Chapter 3 Skills.
-    - RMU Core Law p.82 - Table 3-0a Skill Summary.
-    - RMU Core Law p.84 - Table 3-0b Skill Ranks.
+  - RMU Core Law p.82 - Table 3-0a Skill Summary.
+  - RMU Core Law p.84 - Table 3-0b Skill Ranks.
 
 As you can see by the large page count in the Skills chapter, it's kind of
 important. Characters start with 60 DP plus any Racial DP as well. I interpret
@@ -368,3 +369,4 @@ source material, but then creating characters is a snap in the program. However,
 I did find it more confusing trying to use the ERA before doing a couple manual
 character builds. Do the hard thing first, then the easy stuff will make more
 sense.
+
