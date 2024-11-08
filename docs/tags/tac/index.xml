@@ -10,6 +10,294 @@
     <lastBuildDate>Fri, 28 Jul 2023 02:29:41 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/tac/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Using Mythic Bastionland With Dungeon World</title>
+      <link>https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/</link>
+      <pubDate>Fri, 08 Nov 2024 04:19:42 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#overview&#34;&gt;Overview&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This idea came to me after reading Mythic Bastionland and trying to parse Dungeon World Fronts so I could build fun wilderness exploration adventures. One of my players said they did not like random encounters and wanted to focus on &amp;ldquo;the story&amp;rdquo; while traveling. Thinking about how I&amp;rsquo;ve ran wilderness travel and random encounters for other groups, I revisited Mythic Bastionland and Dungeon World.&lt;/p&gt;
+&lt;p&gt;In Mythic Bastionland the game&amp;rsquo;s focus is resolving Myths by encountering Omens when rolled on an encounter table. A little bit of mystery and a bit of exploration is fun for me. However, I didn&amp;rsquo;t want to be tied to Arthurian knights, so I thought a bit. Please checkout &lt;a href=&#34;https://bit.ly/mbplaytest&#34;&gt;Mythic Bastionland Playtest&lt;/a&gt;. The full game should be out soon.&lt;/p&gt;
+&lt;p&gt;A few days later, I was investigating some ways to make Sandbox situations but dress them as fully realized adventures. I reopened Dungeon World and started reading about Fronts. Thinking about their structure and how Mythic Bastionland works, I determined that Myths with Omens are very similar to Fronts and Dangers and their Grim Portents. While a Myth has six Omens, a Front has 1-3 Dangers and each Danger has 3-6 Grim Portents. You can read more about Fronts in the &lt;a href=&#34;https://dungeon-world.com/&#34;&gt;Dungeon World book&lt;/a&gt; or on their &lt;a href=&#34;https://www.dungeonworldsrd.com/gamemastering/fronts/&#34;&gt;SRD&lt;/a&gt;. I think combining these two ideas will be fun and hopefully show you how I&amp;rsquo;ve used this for a few exploration adventures that focused on a higher goal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;WARNING&lt;/em&gt;&lt;/strong&gt;: I write this under the assumption you&amp;rsquo;ve read the links or books for Mythic Bastionland and Dungeon World. &lt;strong&gt;&lt;em&gt;WARNING&lt;/em&gt;&lt;/strong&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;mythic-bastionland-wilderness-rolls&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#mythic-bastionland-wilderness-rolls&#34;&gt;Mythic Bastionland Wilderness Rolls&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is probably the easiest portion to cover so we&amp;rsquo;ll say it first. Page 18 of Mythic Bastionland covers time, however what we&amp;rsquo;re interested in is the &amp;lsquo;Wilderness Roll&amp;rsquo; table. I&amp;rsquo;m going to share the modified version for this post.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;1d6&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Wilderness Roll&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Encounter the next Grim Portent from a random Danger in this Region.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2-3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Encounter the next Grim Portent from the nearest Danger in this Region.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4-6&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Encounter the Hex&amp;rsquo;s Landmark. Otherwise all clear.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Just hang with me, I&amp;rsquo;ll explain how or why we got to these wordings.&lt;/p&gt;
+&lt;p&gt;So, the explanation process is, as you enter a hex, regardless of if you&amp;rsquo;re doing one hex a day or three, roll on the table to see what happens. Player&amp;rsquo;s choose to engage, but that Grim Portent is now there and causing issues. The GM should make liberal use of their imagination and interpretation skills to figure out how or why that Grim Portent is there.&lt;/p&gt;
+&lt;h2 id=&#34;fronts-as-myths&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#fronts-as-myths&#34;&gt;Fronts as Myths?&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Mythic Bastionland uses Myths and Omens. Dungeon World uses Fronts, Dangers, and Grim Portents. You might see that there is a difference in the levels here. You can choose to have two or three Fronts with 2 or 3 Dangers each totaling six Dangers similar to Mythic Bastionland&amp;rsquo;s 6 Myths for a given Region (Realm). This can introduce many interweaving threads and plot lines to discover and factions to interact with as part of the lonely fun, or if your table enjoys it, collaboratively. However, we&amp;rsquo;re going to Focus on a single Front with three Dangers and six Grim Portents.&lt;/p&gt;
+&lt;p&gt;The Front in this case can be thought of equivalent to an &amp;ldquo;overarching adventure&amp;rdquo; or thing happening in the region, the big picture. Regardless this works the same. We define our Front as per the Dungeon World book, or if you&amp;rsquo;re inspired, use random prompts and season to given context or desired style of play.&lt;/p&gt;
+&lt;h3 id=&#34;dangers&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#dangers&#34;&gt;Dangers&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The way I read DW p.185, is to design your Dangers first, then based upon the Dangers and Grim Portents is what we title the Front as. Let&amp;rsquo;s make a Danger using Dungeon World &amp;ldquo;tables&amp;rdquo; starting on DW p.187.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Danger Type&lt;/em&gt;: Planar Forces (1d5 roll).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Danger Actor&lt;/em&gt;: Demon Prince (1d6 roll).
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Impulse&lt;/em&gt;: Open gates of Hell.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Impending DOOM&lt;/em&gt;: Usurpation (1d6 roll).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now we have our Who (kind of), What, Why. Now we have some more questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who is the Demon Prince?&lt;/li&gt;
+&lt;li&gt;Who is helping the Demon Prince?&lt;/li&gt;
+&lt;li&gt;What are the helpers standing to gain from helping?&lt;/li&gt;
+&lt;li&gt;Who will suffer the most from these actions?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Answering these questions should help us figure out the Description, The Cast and setup our Stakes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Description&lt;/em&gt;: The Demon Prince Barlon is wanting to open the gates of Hell by using followers of the the Red Star Cult to find keys and locks scattered through the realm. The Red Star Cult believes these will open a gateway to other realms to escape to. If the locks are opened, psychically attuned people will be gateways to allow demons through.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cast&lt;/em&gt;:
+&lt;ul&gt;
+&lt;li&gt;Demon Prince Barlon.&lt;/li&gt;
+&lt;li&gt;Red Star Cult.&lt;/li&gt;
+&lt;li&gt;Citizens of the Region.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stakes&lt;/em&gt;:
+&lt;ul&gt;
+&lt;li&gt;What happens to the citizenry of the Region when demons flood the area?&lt;/li&gt;
+&lt;li&gt;Do the psychic people feel this presence or activity?&lt;/li&gt;
+&lt;li&gt;What does the corruption look like?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now for the Grim Portents, the steps being taken to achieve the goal of each Danger feeding the overarching Front big picture.&lt;/p&gt;
+&lt;h3 id=&#34;grim-portents&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#grim-portents&#34;&gt;Grim Portents&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s think of some steps for how our Red Star Cult will unwittingly achieve their goal and be deceived in the end. We usually want six Grim Portents or steps to achieve the Danger.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RSC raids local library and arcane college.&lt;/li&gt;
+&lt;li&gt;Psychics begin turning ill and hospitals are flooded.&lt;/li&gt;
+&lt;li&gt;Creatures from long forgotten times terrorize country side.&lt;/li&gt;
+&lt;li&gt;Settlements are being uprooted and migrating to safe havens.&lt;/li&gt;
+&lt;li&gt;The Demon Prince appears before all rulers and powerful leaders telling them to join their cause.&lt;/li&gt;
+&lt;li&gt;Rituals begin unlocking keys, psychic energy siphoned to open portals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wuff, that&amp;rsquo;s a packed Danger for just one Front. You have two more to go!&lt;/p&gt;
+&lt;h3 id=&#34;more-dangers&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#more-dangers&#34;&gt;More Dangers&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;The key to making these Dangers feel connected is to ask or figure out how the goals of one Danger overlap with another. I choose to build a Danger first, then using that &lt;strong&gt;context&lt;/strong&gt; build the other Dangers so they either are working towards or against the big picture. Even if a Danger is working against another, someone is getting the short end of the deal and needs saving.&lt;/p&gt;
+&lt;h2 id=&#34;putting-this-together&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#putting-this-together&#34;&gt;Putting this together&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Determine a starting location that makes sense or is agreed upon by the group. This could be the tavern, coming in from sea, or traveling through. Maybe a Red Star Cult fiasco happens in a local settlement festival, you pick. The main key is to get out there in the wilderness and explore. You&amp;rsquo;ll uncover other Grim Portents from the other Dangers if you have more than one. The players then are responsible for figuring out which Grim Portents are related and resolve the Danger.&lt;/p&gt;
+&lt;p&gt;Using the Wilderness Roll defined above from Mythic Bastionland, we can keep &amp;ldquo;the story&amp;rdquo; front and center.&lt;/p&gt;
+&lt;p&gt;If your players do find that they&amp;rsquo;re a bit lost, tell them to talk to locals, seek knowledgeable people of the local area and get clues or rumors to guide them.&lt;/p&gt;
+&lt;h2 id=&#34;an-example-usage&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#an-example-usage&#34;&gt;An Example Usage!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;front-setup&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#front-setup&#34;&gt;Front Setup&lt;/a&gt;
+&lt;/h3&gt;
+&lt;h4 id=&#34;front-1-details&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#front-1-details&#34;&gt;Front 1 Details&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Front 1&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Pestilence Demon Xorosh corrupted the mind of the Lead Scientist Henry and gave him a false power to enhance humanoids. However, this power then lead to a beacon to be seen for a void-faring species to navigate to this realm, and crash land, taking root.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cast&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Pestilence Demon, Xorosh&lt;/li&gt;
+&lt;li&gt;Lead Scientist Henry Johansen&lt;/li&gt;
+&lt;li&gt;Xenothrax, the queen of hordes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stakes&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;What happens if the region&amp;rsquo;s capitol is lost to the Hordes?&lt;/li&gt;
+&lt;li&gt;Do people try to sway the ultra-humanoids to find peace and join normal people?&lt;/li&gt;
+&lt;li&gt;Is there a way to find where these hordes came from in the void?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 1&lt;/strong&gt;: &lt;em&gt;Planar Forces&lt;/em&gt; - Interstellar Being
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;To force a mutation upon the world&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Pestilence&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;A shooting star is scene rocketing across the sky. Shards fall to the ground.&lt;/li&gt;
+&lt;li&gt;Animals start acting rabid and unusual.&lt;/li&gt;
+&lt;li&gt;Crops start dying to blight, people start getting sick.&lt;/li&gt;
+&lt;li&gt;The rulers start torching and burning infected sites and quarantine zones.&lt;/li&gt;
+&lt;li&gt;Mutated abominations gather in the deep woods or dark caves.&lt;/li&gt;
+&lt;li&gt;A master mind mutant leads hordes of mutations to attack large settlements.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 2&lt;/strong&gt;: &lt;em&gt;Ambitious Organizations&lt;/em&gt; - Biological Supremacy cult
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;To use the gene code found to amplify a person&amp;rsquo;s core strengths&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Usurpation&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;People heading to a crash/impact site of a meteor for its resources.&lt;/li&gt;
+&lt;li&gt;A group of young people are found leaping over tall buildings in a single bound. A group of people seem to be watching them.&lt;/li&gt;
+&lt;li&gt;Rumors of a ultra-humanoid are heard and sights of bands of ultra-strong people are seen bullying other normal people.&lt;/li&gt;
+&lt;li&gt;Settlement is decimated by a band of ultra-humanoids who were &amp;ldquo;settling a dispute&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;A Supreme Leader rises that unifies the roaming bands, local authorities are not pleased.&lt;/li&gt;
+&lt;li&gt;The ultra-humanoids decide that unmodified persons should be removed due to weakness and attack a local settlement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 3&lt;/strong&gt;: &lt;em&gt;Hordes&lt;/em&gt; - Interstellar
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;Wreak havoc on the country side&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Destruction&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Local fields and grounds are upturned as smaller vanguards are found.&lt;/li&gt;
+&lt;li&gt;Local Hunter&amp;rsquo;s Lodge sets out to find the largest of the vermin. That should stop them!&lt;/li&gt;
+&lt;li&gt;Hunter Forms are found stalking the edges of the forest, seemingly protecting something.&lt;/li&gt;
+&lt;li&gt;Hordes are seen heading towards the capitol settlement! There are so many of them!&lt;/li&gt;
+&lt;li&gt;Multiple Hunter Lodges move to invade the forest nest.&lt;/li&gt;
+&lt;li&gt;The Queen moves, seeking a new nesting ground, the capitol underbelly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;front-2-details&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#front-2-details&#34;&gt;Front 2 Details&lt;/a&gt;
+&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Front 2&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: The Demon Prince Barlon is wanting to open the gates of Hell by using followers of the the Red Star Cult to find keys and locks scattered through the realm. The Red Star Cult believes these will open a gateway to other realms to escape to. If the locks are opened, psychically attuned people will be gateways to allow demons through.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cast&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Demon Prince Barlon.&lt;/li&gt;
+&lt;li&gt;Red Star Cult.&lt;/li&gt;
+&lt;li&gt;Citizens of the Region.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stakes&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;What happens to the citizenry of the Region when demons flood the area?&lt;/li&gt;
+&lt;li&gt;Do the psychic people feel this presence or activity?&lt;/li&gt;
+&lt;li&gt;What does the corruption look like?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 1&lt;/strong&gt;: &lt;em&gt;Planar Forces&lt;/em&gt; - Demon Prince.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;Open gates of Hell&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Usurpation&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;RSC raids local library and arcane college.&lt;/li&gt;
+&lt;li&gt;Psychics begin turning ill and hospitals are flooded.&lt;/li&gt;
+&lt;li&gt;Creatures from long forgotten times terrorize country side.&lt;/li&gt;
+&lt;li&gt;Settlements are being uprooted and migrating to safe havens.&lt;/li&gt;
+&lt;li&gt;The Demon Prince appears before all rulers and powerful leaders telling them to join their cause.&lt;/li&gt;
+&lt;li&gt;Rituals begin unlocking keys, psychic energy siphoned to open portals.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 2&lt;/strong&gt;: &lt;em&gt;Hordes&lt;/em&gt; - Wandering Barbarians
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;To grow strong, to drive their enemies before them&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Impoverishment&lt;/em&gt; (enslavement, the abandonment of goodness and right).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Livestock and animals have been released or stolen.&lt;/li&gt;
+&lt;li&gt;Village left burned to the ground.&lt;/li&gt;
+&lt;li&gt;A pack of beast riders attack!&lt;/li&gt;
+&lt;li&gt;Lines of captured people lead by barbarian riders.&lt;/li&gt;
+&lt;li&gt;Scorched grounds and barbarian encampments built near population centers.&lt;/li&gt;
+&lt;li&gt;The barbarians invade/storm the capital burning and wreaking havoc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Danger 3&lt;/strong&gt;: &lt;em&gt;Cursed Places&lt;/em&gt; - Abandoned Tower
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Impulse&lt;/strong&gt;: &lt;em&gt;To draw in the weak-willed&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impending Doom&lt;/strong&gt;: &lt;em&gt;Tyranny&lt;/em&gt; (of the strong over the weak or the few over the many).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grim Portents&lt;/strong&gt;:
+&lt;ol&gt;
+&lt;li&gt;Aetheric-sensitive individuals feel static everywhere they go.&lt;/li&gt;
+&lt;li&gt;Rampant growth of shrubbery and carnivorous vines start spreading outward from the Tower.&lt;/li&gt;
+&lt;li&gt;People disappearing from their homes, others seeking their lost friends/family.&lt;/li&gt;
+&lt;li&gt;Large beasts spewing out of the area of the Tower.&lt;/li&gt;
+&lt;li&gt;Flying creatures spread miasma throughout the land.&lt;/li&gt;
+&lt;li&gt;The skies darken and the air becomes hard to breath, choking sunlight and life out.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-map&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#the-map&#34;&gt;The Map&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Take a look at the map first. If you read through Mythic Bastionland&amp;rsquo;s Realm Creation guidelines, you&amp;rsquo;ll see some similarities.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/images/dw-fronts-as-mb-wilderness-rolls.png&#34; alt=&#34;A 12x12 map for exploring using Mythic Bastionland&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve mostly followed the Realm building guidelines from Mythic Bastionland, but for the sake of this example, I only included settlements, and the Danger locations. These &amp;ldquo;danger locations&amp;rdquo; are labeled 1-6 and should correspond top-down with the Dangers from the Fronts in order. With the map seeded, and our Fronts ready to go, let&amp;rsquo;s get exploring.&lt;/p&gt;
+&lt;h3 id=&#34;lets-get-exploring&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#lets-get-exploring&#34;&gt;Let&amp;rsquo;s get exploring!&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;We&amp;rsquo;ll start our group out at the top-most Settlement or Holding, 05.02. From here, we&amp;rsquo;ve talked to the locals and guard forces of the settlement to get a lead on a Danger in the area. So, we&amp;rsquo;ll head eastward towards 06.02. Now we&amp;rsquo;ll roll a 1d6 and see what our results are. I rolled a 5 on the die. No encounter here, so we keep traveling. We&amp;rsquo;ll go to 07.02 as our final stop for the day, as per the Mythic Bastionland Travel guidelines. This way we can rest in a settlement. Again, we roll 1d6. This time we rolled a 1, oh no! This time we roll for a random &lt;del&gt;Myth&lt;/del&gt; Danger and encounter the first &lt;del&gt;Omen&lt;/del&gt; Grim Portent. I roll a 4, this means that we count down the list of examples and end up on Front 2 - Danger 1, The Demon Prince!&lt;/p&gt;
+&lt;p&gt;So, now we encounter the first Grim Portent. It says that the Red Star Cult raids the local library and arcane college. This is where we take several liberties. We didn&amp;rsquo;t place the library or college in our prep. So, now we can say that it could be in this village. Why? Because the Holding said that the college could not be in the city walls for safety. Now, we have this context setup, and our PCs can choose to interact with the encounter, or leave it be. However, now this Danger has progressed its first Grim Portent. If/when this Danger&amp;rsquo;s Grim Portents reach the last step, the Danger &amp;ldquo;resolves&amp;rdquo; and the PCs must resolve that Danger where ever they are. But, what if we&amp;rsquo;re in the middle of the water? Well, use discretion as a GM, and remix the encounter so it fits, or in the next logical place it could be, such as where the PCs are heading.&lt;/p&gt;
+&lt;p&gt;Regardless of if your PCs engaged or not, we&amp;rsquo;ll keep traveling eastward to find more information. The group moves into 08.02, and rolls another Wilderness Roll. This time we rolled a 6, it&amp;rsquo;s a quiet phase! The group moves forward another hex into 09.03 to avoid the watery terrain. This time on their Wilderness Roll, they roll a 3. We choose the closet Danger and encounter that Grim Portent. In this case, we&amp;rsquo;re closer to Front 1 - Danger 2, The Experiments! People are heading to a meteor crash site? Well, we can now say that there is a meteor crash site near by. Let&amp;rsquo;s ask the dice, &amp;ldquo;Is the crash site in this hex or the Danger&amp;rsquo;s Hex?&amp;rdquo; If I roll 1-3, current hex, 4-6, Danger hex. I roll a 5, so we&amp;rsquo;ve got a bit, and a few people heading eastward with us. They ask to travel with the party and seek safety in numbers. The PCs should at this point ask the NPCs where they&amp;rsquo;re heading, then follow them.&lt;/p&gt;
+&lt;p&gt;With the information the PCs gathered, they head into hex 10.03 and automatically encounter the next Grim Portent of the Danger in this hex. The next danger is Front 1 - Danger 2, a group of young people are seen leaping over tall buildings? Well, we&amp;rsquo;re in a crash site, so what do we do? Well, using our executive powers as GM, we could say that there was a dwelling here and the meteor crashed into it, or the young people are playing at the crash site. Either way, the Grim Portent is encountered. If the PCs continue to hang out in this hex and explore it, they will eventually uncover the other Grim Portents and resolve the danger.&lt;/p&gt;
+&lt;h3 id=&#34;what-did-we-do-here&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#what-did-we-do-here&#34;&gt;What did we do here?&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Using the ideas of Mythic Bastionland and the Fronts design of Dungeon World, we now have a few threads of related story to investigate by exploring the given map. Using rumors talking from NPCs or exploring blindly in the wilderness, the PCs will encounter various Grim Portents. It is up to the PCs to investigate certain Dangers&amp;rsquo; threads and resolve those by narrowing down the closeness of the encounters or by talking to local residents. Once the PCs find the Danger, they should know it because you didn&amp;rsquo;t roll! You could choose to roll, ignore the result and encounter the next Grim Portent, but then, you&amp;rsquo;re not playing by the &lt;a href=&#34;https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html&#34;&gt;ICI Doctrine&lt;/a&gt; and rolling in the open.&lt;/p&gt;
+&lt;h2 id=&#34;closing&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#closing&#34;&gt;Closing&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I hope this is a helpful idea or look at how to combine two tools together to build a narrative traveling adventure that is still sandbox and yet guide railed so the players feel they&amp;rsquo;re not just doing disconnected quests.&lt;/p&gt;
+&lt;h2 id=&#34;sources-of-inspiration&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/#sources-of-inspiration&#34;&gt;Sources of inspiration&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bit.ly/mbplaytest&#34;&gt;Mythic Bastionland&lt;/a&gt; by &lt;a href=&#34;https://www.bastionland.com/&#34;&gt;Bastionland Press&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dungeon-world.com/&#34;&gt;Dungeon World&lt;/a&gt; by Sage Kobold Productions. &lt;a href=&#34;https://www.dungeonworldsrd.com/&#34;&gt;System Reference Document&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Game-Masters-Handbook-Proactive-Roleplaying/dp/1956403442&#34;&gt;The Game Master&amp;rsquo;s Handbook to Proactive Roleplaying&lt;/a&gt; by Topic Media Lab. &lt;a href=&#34;https://www.drivethrurpg.com/en/product/463026/the-game-master-s-handbook-of-proactive-roleplaying&#34;&gt;DriveThruRPG&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Making Rolemaster Unified Characters</title>
       <link>https://filbot3.github.io/posts/making-rmu-characters/</link>
       <pubDate>Sun, 29 Sep 2024 17:31:23 +0000</pubDate>

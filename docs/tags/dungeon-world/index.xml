@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://filbot3.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oracles on Phils Blog</title>
-    <link>https://filbot3.github.io/tags/oracles/</link>
-    <description>Recent content in Oracles on Phils Blog</description>
+    <title>Dungeon-World on Phils Blog</title>
+    <link>https://filbot3.github.io/tags/dungeon-world/</link>
+    <description>Recent content in Dungeon-World on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 00:11:32 +0000</lastBuildDate>
-    <atom:link href="https://filbot3.github.io/tags/oracles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Nov 2024 04:19:42 +0000</lastBuildDate>
+    <atom:link href="https://filbot3.github.io/tags/dungeon-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Mythic Bastionland With Dungeon World</title>
       <link>https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/</link>
