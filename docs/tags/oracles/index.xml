@@ -10,6 +10,88 @@
     <lastBuildDate>Fri, 17 Nov 2023 00:11:32 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/oracles/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Why Use Different Dice for Resolutions</title>
+      <link>https://filbot3.github.io/posts/why-use-different-dice-for-resolutions/</link>
+      <pubDate>Tue, 03 Dec 2024 18:37:05 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/why-use-different-dice-for-resolutions/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s start with what a &lt;strong&gt;Unified Resolution Mechanic&lt;/strong&gt; is, then we&amp;rsquo;ll get into
+why I think a few types of resolution mechanics make more sense to me. A Unified
+Resolution Mechanic is where you use a single die type and a single type of roll
+to resolve all sorts of actions in a game you may be playing. This could be a
+1d20 or even 2d6, 3d6, or 1d100. Generally, you would set a difficulty, and then
+roll your dice and add a modifier based upon the type of action, and set a
+difficulty target based upon the action. When I hear this, it is typically
+referred to and by those who play roll-over, roll-high games, but there are roll
+under games like Whitehack or The Black Hack 2e that do this. However, for 0e,
+BX, OSE, and similar games, they use various dice for different checks based
+upon the intent of the action.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When rolling &lt;strong&gt;X-in-6&lt;/strong&gt; checks&amp;hellip;
+&lt;ul&gt;
+&lt;li&gt;This is because it is something that has a chance and is something directly outside of the character&amp;rsquo;s control.&lt;/li&gt;
+&lt;li&gt;You can influence the chances, but it&amp;rsquo;s not something directly under the PC&amp;rsquo;s control.&lt;/li&gt;
+&lt;li&gt;Generally rolled by the Game Master, not the players.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When rolling &lt;strong&gt;Ability Checks&lt;/strong&gt; (roll under)&amp;hellip;.
+&lt;ul&gt;
+&lt;li&gt;This is your PC being hyper capable and having a percentage chance disguised as a d20 roll.&lt;/li&gt;
+&lt;li&gt;These are things your PC is directly able to influence and able to have control over with their own abilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When rolling &lt;strong&gt;Attack Rolls&lt;/strong&gt; (roll over)&amp;hellip;.
+&lt;ul&gt;
+&lt;li&gt;This is to simulate the chaotic nature of combat and how someone is dodging or parrying your attacks.&lt;/li&gt;
+&lt;li&gt;This is why adding +1/2/3 is paramount instead of the ever growing +10/15/20 to an attack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unified Resolution Mechanics are simple, but you&amp;rsquo;re losing out on detail and
+you&amp;rsquo;re getting a false sense capability and getting into what we see with super
+powered feeling. However, after GM&amp;rsquo;ing old-school games like OSE, and Into the
+Odd, it has shifted my perception of running games in D&amp;amp;D 5e. Even these dice
+resolutions are not what was once detail in attack charts like those seen in
+Chainmail and Rolemaster Attack/Critical Tables.&lt;/p&gt;
+&lt;p&gt;Listening to &lt;strong&gt;Extreme Ownership&lt;/strong&gt; and &lt;strong&gt;The Dichotomy of Leadership&lt;/strong&gt;, one of
+the maximums is explaining THE WHY behind what someone is doing and usually
+those people will get behind or get with the task at hand.&lt;/p&gt;
+&lt;p&gt;Rolling damage rolls, those have always been different, but generally 1d6 or
+some variation of it, but to get to this point is where most people have the
+most resistance.&lt;/p&gt;
+&lt;h3 id=&#34;hacks-for-these-dice-rolls&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/why-use-different-dice-for-resolutions/#hacks-for-these-dice-rolls&#34;&gt;Hacks for these dice rolls.&lt;/a&gt;
+&lt;/h3&gt;
+&lt;h4 id=&#34;blackjack&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/why-use-different-dice-for-resolutions/#blackjack&#34;&gt;Blackjack&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;While a roll of a natural 1 is always a success for Ability Checks, and a roll
+of a natural 20 for an Attack Roll is always a hit, something to add a bit of a
+risk is add &amp;ldquo;CRITICAL SUCCESS&amp;rdquo; by using a &amp;ldquo;blackjack&amp;rdquo; style resolution. What
+does this mean?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For an Ability Check, say your STR Score is 14 and you need to roll under the score.
+&lt;ul&gt;
+&lt;li&gt;Rolling a Nat 1 is always successful.&lt;/li&gt;
+&lt;li&gt;Rolling a Nat 14, the STR Score, is the critical success!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This doesn&amp;rsquo;t actually change any of the probability because of the flat 5%
+chance for each face. This also works for Attack Rolls as well.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For an Attack Roll, say the AC is 2 and you need to hit a 15+
+&lt;ul&gt;
+&lt;li&gt;Rolling a Nat 20 is always a successful hit.&lt;/li&gt;
+&lt;li&gt;Rolling a Nat 15, the target to hit, is a critical success!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ve seen this in Whitehack and Delta Green. Whitehack uses roll under for
+everything modifying the floor of the stat by raising it based upon the armor or
+AC of the target being attacked or affecting the ability check.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Using Mythic Bastionland With Dungeon World</title>
       <link>https://filbot3.github.io/posts/using-mythic-bastionland-with-dungeon-world/</link>
       <pubDate>Fri, 08 Nov 2024 04:19:42 +0000</pubDate>
