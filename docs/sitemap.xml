@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://filbot3.github.io/</loc>
+    <lastmod>2024-12-03T18:37:05+00:00</lastmod>
+  </url><url>
+    <loc>https://filbot3.github.io/posts/</loc>
+    <lastmod>2024-12-03T18:37:05+00:00</lastmod>
+  </url><url>
     <loc>https://filbot3.github.io/tags/dungeon-world/</loc>
     <lastmod>2024-11-08T04:19:42+00:00</lastmod>
   </url><url>
@@ -9,12 +15,6 @@
     <lastmod>2024-11-08T04:19:42+00:00</lastmod>
   </url><url>
     <loc>https://filbot3.github.io/tags/mythic-bastionland/</loc>
-    <lastmod>2024-11-08T04:19:42+00:00</lastmod>
-  </url><url>
-    <loc>https://filbot3.github.io/</loc>
-    <lastmod>2024-11-08T04:19:42+00:00</lastmod>
-  </url><url>
-    <loc>https://filbot3.github.io/posts/</loc>
     <lastmod>2024-11-08T04:19:42+00:00</lastmod>
   </url><url>
     <loc>https://filbot3.github.io/tags/</loc>
