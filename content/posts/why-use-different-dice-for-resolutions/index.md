@@ -1,7 +1,7 @@
 ---
 title: "Why Use Different Dice for Resolutions"
 date: 2024-12-03T18:37:05Z
-draft: true
+draft: false
 description: >
   Let's discuss why using a handful of dice checks for resolution can provide
   more detail in a check and the reason behind why.
