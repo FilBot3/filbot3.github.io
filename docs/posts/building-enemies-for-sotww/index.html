@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  
+  <meta charset="utf-8">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <meta name="description" content="Let&#39;s build enemies and foes for Shadow of the Weird Wizard! It&#39;s almost OSR-like!
+">
+
+
+<meta name="color-scheme" content="light dark">
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.124.1">
+  <title>Building Enemies for Shadow of the Weird Wizard | Phils Blog</title>
+  <link rel="canonical" href="https://filbot3.github.io/posts/building-enemies-for-sotww/">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+  <link rel="stylesheet" href="https://filbot3.github.io/css/base.min.8b9c9856a454d9f9fc6e6fc07c7a05af8097c496896a0789e080551517b891c7.css" integrity="sha256-i5yYVqRU2fn8bm/AfHoFr4CXxJaJageJ4IBVFRe4kcc=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <h1 class="Banner-heading">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/">Phils Blog</a>
+        </h1>
+      </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/about/">About</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/">Posts</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/tags/">Tags</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/categories/">Categories</a>
+        </li>
+      
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="https://filbot3.github.io/index.xml">RSS</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+
+  <main>
+    <div class="u-wrapper">
+      <div class="u-padding">
+        
+
+  <article>
+    <header class="Heading">
+  <h2 class="Heading-title">
+    <a class="Heading-link u-clickable" href="https://filbot3.github.io/posts/building-enemies-for-sotww/" rel="bookmark">Building Enemies for Shadow of the Weird Wizard</a>
+  </h2>
+  
+    <time datetime="2024-12-18T23:11:10Z">18 December, 2024</time>
+  
+</header>
+    <p>In the <strong>Secrets of the Weird Wizard</strong> in the <em>Bestiary</em>, there are some rough breakdowns of what a monster is, how they&rsquo;re listed, and how the challenge system works. After typing a lot of these up, I saw some patterns emerge.</p>
+<h2 id="how-i-got-here">
+  <a class="Heading-link u-clickable" href="https://filbot3.github.io/posts/building-enemies-for-sotww/#how-i-got-here">How I got here&hellip;</a>
+</h2>
+<p>So, this going to be a stretch of connections, but hang with me. Looking at the DIFFICULTY number, knowing that Rob Schwalb worked on older versions of the most known role-playing game, I equated DIFFICULTY with LEVEL, because some where higher that PCs and did more damage. Damage is generally tied to (level)d6. Knave 2e and Shadowdark use Level as well, but Knave 2e is the only one to make the relation in text to matching HIT DICE. For some reason I kept thinking about Basic Roleplaying and how magic is bought d6 per level. It worked in my head. Then I used some instincts from Whitehack 4e and The Black Hack 2e on how a single number like HD provides a ton of information given the formula in the books. Worlds Without Number also equates HD as a sort of challenge rating or Difficulty number as well. Hit Dice Budgets from Scarlet Heroes.</p>
+<p>Now, let&rsquo;s get into actually building enemies!</p>
+<h2 id="building-an-enemy">
+  <a class="Heading-link u-clickable" href="https://filbot3.github.io/posts/building-enemies-for-sotww/#building-an-enemy">Building an Enemy</a>
+</h2>
+<p>Let&rsquo;s take a look at the Enemy/Foe Stat Block first. This is displayed in <strong>Secrets of the Weird Wizard</strong> <em>Bestiary</em> page 96-98, so I won&rsquo;t dive too far into what each field means, but I&rsquo;ll discuss my choices for each blank.</p>
+<ul>
+<li>NAME - DIFF#
+<ul>
+<li>Description Tags</li>
+<li>Defense - Health</li>
+<li>Stats - Strength, Agility, Intellect, WIllpower</li>
+<li>Size - Speed</li>
+<li>Traits
+<ul>
+<li>Senses</li>
+<li>Immunities</li>
+<li>Fury</li>
+<li>Special Traits &amp; Talents</li>
+</ul>
+</li>
+<li>Actions
+<ul>
+<li>Melee Attack(s)</li>
+<li>Ranged Attack(s)</li>
+<li>Special Attack(s)</li>
+</ul>
+</li>
+<li>Reactions</li>
+<li>End-of-Round Actions</li>
+</ul>
+</li>
+</ul>
+<p>Let&rsquo;s create a traditional fantasy style creature of extreme weirdness, something like&hellip;a giant gorilla! %%Let&rsquo;s think of a &ldquo;Clout Rating&rdquo; for our gorilla. This <em>Clout Rating</em> will inform our baseline Ability Scores. For this, our giant gorilla will be roughly a Clout Rating 3 %% My gorilla will be going against a group of 4 PCs that are of Novice Tier and I want this to be an Average Difficulty. So, this gives me 8 Difficulty to work with. My giant gorilla will be a solo enemy, so we&rsquo;re gonna give it a few attacks since it is DIFFICULTY 8. Health is generally DIFFICULTY x 10, plus or minus 10 to 20 points for a stronger or weaker foe, respectively. For attacks, a Slam area of effect, a Hug and Throw 2 stage attack, and a single target Punch. We&rsquo;ll make the Punch the standard attack, the Slam a secondary when surrounded, and the Hug and Throw our big attack. Punch should do 2d6 Damage, Slam should do 4d6 Damage, Save to take half, and the H&amp;T will do 2d6, followed by a Save with 2 Banes to get out, then throw 10 yards/size/squares away if the target is still held. Let&rsquo;s give the gorilla a Strength of 18, an Agility of 12, an Intellect of 10, and a Willpower of 15. Our gorilla will have a tough outer hide, so a defense of 14.  We&rsquo;re ready to make our Stat Block.</p>
+<ul>
+<li><strong>Giant Gorilla</strong> - Beast - DIFFICULTY 8
+<ul>
+<li>Defense: 14, Health: 80</li>
+<li>Strength: 18, Agility: 12, Intellect: 10, Willpower: 15</li>
+<li>Size: 4, Speed 5</li>
+<li>Traits
+<ul>
+<li>Languages: Sign</li>
+<li>Immunities: None</li>
+<li>Fury: Raging Slam: forgo Hug &amp; Throw and combine Slam each round for 6d6.</li>
+<li>Special Traits or Talents: None</li>
+</ul>
+</li>
+<li>Actions
+<ul>
+<li><strong>Punch</strong> (Melee): Strength (+8), Damage 2d6</li>
+<li><strong>Slam</strong> (Melee): Area of Effect, Strength (+8), Damage 4d6, PCs save for half-damage, failure also knocks prone.</li>
+<li><strong>Hug &amp; Throw</strong> (Melee): Strength (+8), Gorilla hugs the PC with a successful contested Strength Test. Failure is grappled for one round. The PC may attempt to resist again, and upon failure results in being thrown taking 2d6 Damage.</li>
+</ul>
+</li>
+<li>Reactions
+<ul>
+<li>None</li>
+</ul>
+</li>
+<li>End-of-Round
+<ul>
+<li><strong>Relocate</strong>: The Giant Gorilla will attempt to reposition so it gets out of range, and use verticality to its advantage.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Alright, so we&rsquo;ve made a Giant Gorilla. As with any enemy, foe or monster, even officially created ones, gauge your table, and make sure you&rsquo;re telegraphing the danger. Running away and retreating should always be an option, unless it is telegraphed that there isn&rsquo;t a way out.</p>
+<h2 id="tldr---gimme-the-brief">
+  <a class="Heading-link u-clickable" href="https://filbot3.github.io/posts/building-enemies-for-sotww/#tldr---gimme-the-brief">TL;DR - gimme the brief</a>
+</h2>
+<ul>
+<li>HP = DIFFICULTY x10
+<ul>
+<li>+10-20 for stronger enemies.</li>
+<li>-10-20 for weaker enemies.</li>
+</ul>
+</li>
+<li>Damage = DIFFICULTY x d6
+<ul>
+<li>Spread out between all attacks.</li>
+<li>DIFF 1 = 1d6, DIFF 4 = 4d6, &hellip;</li>
+</ul>
+</li>
+<li>Defense = 11 + Armor
+<ul>
+<li>Natural or Made/Forged.</li>
+</ul>
+</li>
+<li>DIFF 4 or higher enemies have 2-4 attacks.
+<ul>
+<li>This must make sense in the fiction of the foe.
+<ul>
+<li>Two arms, one carrying a sword, and a shield, 1 or two attacks.</li>
+<li>Four arms, maybe 4 attacks.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Damage Threshold = Rage = when Injured
+<ul>
+<li>perform an action or ability.</li>
+</ul>
+</li>
+<li>DIFF 4 or higher enemies can inflict a Status Effect when achieving a Critical Hit.</li>
+<li>Enemies have Reactions which generally do not inflict damage.
+<ul>
+<li>These Reactions must fit the narrative.</li>
+</ul>
+</li>
+<li>Stats and Bonuses are what makes sense.
+<ul>
+<li>Use a &ldquo;Cloud Rating&rdquo;
+<ul>
+<li>Use Tags to raise/lower Stats from the Clout Rating.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Enemies can have End-of-Round actions.
+<ul>
+<li>Generally boosting themselves or hindering the PCs.</li>
+</ul>
+</li>
+</ul>
+<p>These are the highlight bullet points of what I have reverse engineered from Secrets of the Weird Wizard.</p>
+<h2 id="using-a-clout-rating">
+  <a class="Heading-link u-clickable" href="https://filbot3.github.io/posts/building-enemies-for-sotww/#using-a-clout-rating">Using a Clout Rating</a>
+</h2>
+<p>A wut?</p>
+<p>A <strong>Clout Rating</strong> is something I got from the <strong>Eclectic Gamemaster&rsquo;s Toolkit for Genesys RPG</strong>. Essentially almost every game has a &ldquo;power level&rdquo;. In this, I will say I have a Clout Rating 8 Enemy. This is how well renown they are or their species is. So, CR 8 is going to be a DIFFICULTY 18 Enemy, taking the CR and adding 10 to it. Then, we&rsquo;ll give the enemy some tags or aspects to modify our other numbers. If we&rsquo;re going to stat out our gorilla again, it&rsquo;d be CR 8, and a tag of &ldquo;Strong&rdquo; for +2 to STR and WILL Stats. &ldquo;Fears Fire&rdquo;, would give it a -2 to INT and maybe a Vulnerability to fire. &ldquo;Tough&rdquo; would raise our Defense +2, and probably our STR +2.  Lastly, I&rsquo;ll say &ldquo;Big Ol&rsquo; Dude&rdquo;, and give it another STR +2 to make it 18, so we match our earlier example. Then from this, I can extrapolate most of the other information I need.</p>
+<p>Hopefully that&rsquo;s a neat method to build a Foe as well that would be usable in any system, not just Shadow of the Weird Wizard. Of course, Mythic Role Playing&rsquo;s Scaling Boxes make that real easy too.</p>
+
+    
+
+
+  
+
+  
+
+
+
+
+
+  <footer>
+    
+      
+    
+      
+        <ul class="Tags">
+          
+            <li class="Tags-item u-background">
+              <a class="Tags-link u-clickable" href="https://filbot3.github.io/tags/sotww/" rel="tag">SotWW</a>
+            </li>
+          
+            <li class="Tags-item u-background">
+              <a class="Tags-link u-clickable" href="https://filbot3.github.io/tags/role-playing/" rel="tag">Role-Playing</a>
+            </li>
+          
+            <li class="Tags-item u-background">
+              <a class="Tags-link u-clickable" href="https://filbot3.github.io/tags/ttrpgs/" rel="tag">TTRPGs</a>
+            </li>
+          
+        </ul>
+      
+    
+  </footer>
+
+    
+  
+
+  </article>
+
+
+      </div>
+    </div>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding u-noboosting">
+        Except where otherwise noted, content on this site is licensed under a &#32; <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>

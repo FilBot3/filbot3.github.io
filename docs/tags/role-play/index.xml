@@ -10,6 +10,150 @@
     <lastBuildDate>Sun, 26 Nov 2023 17:51:00 +0000</lastBuildDate>
     <atom:link href="https://filbot3.github.io/tags/role-play/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Building Enemies for Shadow of the Weird Wizard</title>
+      <link>https://filbot3.github.io/posts/building-enemies-for-sotww/</link>
+      <pubDate>Wed, 18 Dec 2024 23:11:10 +0000</pubDate>
+      <guid>https://filbot3.github.io/posts/building-enemies-for-sotww/</guid>
+      <description>&lt;p&gt;In the &lt;strong&gt;Secrets of the Weird Wizard&lt;/strong&gt; in the &lt;em&gt;Bestiary&lt;/em&gt;, there are some rough breakdowns of what a monster is, how they&amp;rsquo;re listed, and how the challenge system works. After typing a lot of these up, I saw some patterns emerge.&lt;/p&gt;
+&lt;h2 id=&#34;how-i-got-here&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/building-enemies-for-sotww/#how-i-got-here&#34;&gt;How I got here&amp;hellip;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;So, this going to be a stretch of connections, but hang with me. Looking at the DIFFICULTY number, knowing that Rob Schwalb worked on older versions of the most known role-playing game, I equated DIFFICULTY with LEVEL, because some where higher that PCs and did more damage. Damage is generally tied to (level)d6. Knave 2e and Shadowdark use Level as well, but Knave 2e is the only one to make the relation in text to matching HIT DICE. For some reason I kept thinking about Basic Roleplaying and how magic is bought d6 per level. It worked in my head. Then I used some instincts from Whitehack 4e and The Black Hack 2e on how a single number like HD provides a ton of information given the formula in the books. Worlds Without Number also equates HD as a sort of challenge rating or Difficulty number as well. Hit Dice Budgets from Scarlet Heroes.&lt;/p&gt;
+&lt;p&gt;Now, let&amp;rsquo;s get into actually building enemies!&lt;/p&gt;
+&lt;h2 id=&#34;building-an-enemy&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/building-enemies-for-sotww/#building-an-enemy&#34;&gt;Building an Enemy&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s take a look at the Enemy/Foe Stat Block first. This is displayed in &lt;strong&gt;Secrets of the Weird Wizard&lt;/strong&gt; &lt;em&gt;Bestiary&lt;/em&gt; page 96-98, so I won&amp;rsquo;t dive too far into what each field means, but I&amp;rsquo;ll discuss my choices for each blank.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NAME - DIFF#
+&lt;ul&gt;
+&lt;li&gt;Description Tags&lt;/li&gt;
+&lt;li&gt;Defense - Health&lt;/li&gt;
+&lt;li&gt;Stats - Strength, Agility, Intellect, WIllpower&lt;/li&gt;
+&lt;li&gt;Size - Speed&lt;/li&gt;
+&lt;li&gt;Traits
+&lt;ul&gt;
+&lt;li&gt;Senses&lt;/li&gt;
+&lt;li&gt;Immunities&lt;/li&gt;
+&lt;li&gt;Fury&lt;/li&gt;
+&lt;li&gt;Special Traits &amp;amp; Talents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Actions
+&lt;ul&gt;
+&lt;li&gt;Melee Attack(s)&lt;/li&gt;
+&lt;li&gt;Ranged Attack(s)&lt;/li&gt;
+&lt;li&gt;Special Attack(s)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reactions&lt;/li&gt;
+&lt;li&gt;End-of-Round Actions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s create a traditional fantasy style creature of extreme weirdness, something like&amp;hellip;a giant gorilla! %%Let&amp;rsquo;s think of a &amp;ldquo;Clout Rating&amp;rdquo; for our gorilla. This &lt;em&gt;Clout Rating&lt;/em&gt; will inform our baseline Ability Scores. For this, our giant gorilla will be roughly a Clout Rating 3 %% My gorilla will be going against a group of 4 PCs that are of Novice Tier and I want this to be an Average Difficulty. So, this gives me 8 Difficulty to work with. My giant gorilla will be a solo enemy, so we&amp;rsquo;re gonna give it a few attacks since it is DIFFICULTY 8. Health is generally DIFFICULTY x 10, plus or minus 10 to 20 points for a stronger or weaker foe, respectively. For attacks, a Slam area of effect, a Hug and Throw 2 stage attack, and a single target Punch. We&amp;rsquo;ll make the Punch the standard attack, the Slam a secondary when surrounded, and the Hug and Throw our big attack. Punch should do 2d6 Damage, Slam should do 4d6 Damage, Save to take half, and the H&amp;amp;T will do 2d6, followed by a Save with 2 Banes to get out, then throw 10 yards/size/squares away if the target is still held. Let&amp;rsquo;s give the gorilla a Strength of 18, an Agility of 12, an Intellect of 10, and a Willpower of 15. Our gorilla will have a tough outer hide, so a defense of 14.  We&amp;rsquo;re ready to make our Stat Block.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Giant Gorilla&lt;/strong&gt; - Beast - DIFFICULTY 8
+&lt;ul&gt;
+&lt;li&gt;Defense: 14, Health: 80&lt;/li&gt;
+&lt;li&gt;Strength: 18, Agility: 12, Intellect: 10, Willpower: 15&lt;/li&gt;
+&lt;li&gt;Size: 4, Speed 5&lt;/li&gt;
+&lt;li&gt;Traits
+&lt;ul&gt;
+&lt;li&gt;Languages: Sign&lt;/li&gt;
+&lt;li&gt;Immunities: None&lt;/li&gt;
+&lt;li&gt;Fury: Raging Slam: forgo Hug &amp;amp; Throw and combine Slam each round for 6d6.&lt;/li&gt;
+&lt;li&gt;Special Traits or Talents: None&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Actions
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Punch&lt;/strong&gt; (Melee): Strength (+8), Damage 2d6&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slam&lt;/strong&gt; (Melee): Area of Effect, Strength (+8), Damage 4d6, PCs save for half-damage, failure also knocks prone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hug &amp;amp; Throw&lt;/strong&gt; (Melee): Strength (+8), Gorilla hugs the PC with a successful contested Strength Test. Failure is grappled for one round. The PC may attempt to resist again, and upon failure results in being thrown taking 2d6 Damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reactions
+&lt;ul&gt;
+&lt;li&gt;None&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;End-of-Round
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Relocate&lt;/strong&gt;: The Giant Gorilla will attempt to reposition so it gets out of range, and use verticality to its advantage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alright, so we&amp;rsquo;ve made a Giant Gorilla. As with any enemy, foe or monster, even officially created ones, gauge your table, and make sure you&amp;rsquo;re telegraphing the danger. Running away and retreating should always be an option, unless it is telegraphed that there isn&amp;rsquo;t a way out.&lt;/p&gt;
+&lt;h2 id=&#34;tldr---gimme-the-brief&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/building-enemies-for-sotww/#tldr---gimme-the-brief&#34;&gt;TL;DR - gimme the brief&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HP = DIFFICULTY x10
+&lt;ul&gt;
+&lt;li&gt;+10-20 for stronger enemies.&lt;/li&gt;
+&lt;li&gt;-10-20 for weaker enemies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Damage = DIFFICULTY x d6
+&lt;ul&gt;
+&lt;li&gt;Spread out between all attacks.&lt;/li&gt;
+&lt;li&gt;DIFF 1 = 1d6, DIFF 4 = 4d6, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Defense = 11 + Armor
+&lt;ul&gt;
+&lt;li&gt;Natural or Made/Forged.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;DIFF 4 or higher enemies have 2-4 attacks.
+&lt;ul&gt;
+&lt;li&gt;This must make sense in the fiction of the foe.
+&lt;ul&gt;
+&lt;li&gt;Two arms, one carrying a sword, and a shield, 1 or two attacks.&lt;/li&gt;
+&lt;li&gt;Four arms, maybe 4 attacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Damage Threshold = Rage = when Injured
+&lt;ul&gt;
+&lt;li&gt;perform an action or ability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;DIFF 4 or higher enemies can inflict a Status Effect when achieving a Critical Hit.&lt;/li&gt;
+&lt;li&gt;Enemies have Reactions which generally do not inflict damage.
+&lt;ul&gt;
+&lt;li&gt;These Reactions must fit the narrative.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stats and Bonuses are what makes sense.
+&lt;ul&gt;
+&lt;li&gt;Use a &amp;ldquo;Cloud Rating&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Use Tags to raise/lower Stats from the Clout Rating.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Enemies can have End-of-Round actions.
+&lt;ul&gt;
+&lt;li&gt;Generally boosting themselves or hindering the PCs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are the highlight bullet points of what I have reverse engineered from Secrets of the Weird Wizard.&lt;/p&gt;
+&lt;h2 id=&#34;using-a-clout-rating&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://filbot3.github.io/posts/building-enemies-for-sotww/#using-a-clout-rating&#34;&gt;Using a Clout Rating&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;A wut?&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;Clout Rating&lt;/strong&gt; is something I got from the &lt;strong&gt;Eclectic Gamemaster&amp;rsquo;s Toolkit for Genesys RPG&lt;/strong&gt;. Essentially almost every game has a &amp;ldquo;power level&amp;rdquo;. In this, I will say I have a Clout Rating 8 Enemy. This is how well renown they are or their species is. So, CR 8 is going to be a DIFFICULTY 18 Enemy, taking the CR and adding 10 to it. Then, we&amp;rsquo;ll give the enemy some tags or aspects to modify our other numbers. If we&amp;rsquo;re going to stat out our gorilla again, it&amp;rsquo;d be CR 8, and a tag of &amp;ldquo;Strong&amp;rdquo; for +2 to STR and WILL Stats. &amp;ldquo;Fears Fire&amp;rdquo;, would give it a -2 to INT and maybe a Vulnerability to fire. &amp;ldquo;Tough&amp;rdquo; would raise our Defense +2, and probably our STR +2.  Lastly, I&amp;rsquo;ll say &amp;ldquo;Big Ol&amp;rsquo; Dude&amp;rdquo;, and give it another STR +2 to make it 18, so we match our earlier example. Then from this, I can extrapolate most of the other information I need.&lt;/p&gt;
+&lt;p&gt;Hopefully that&amp;rsquo;s a neat method to build a Foe as well that would be usable in any system, not just Shadow of the Weird Wizard. Of course, Mythic Role Playing&amp;rsquo;s Scaling Boxes make that real easy too.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Why Use Different Dice for Resolutions</title>
       <link>https://filbot3.github.io/posts/why-use-different-dice-for-resolutions/</link>
       <pubDate>Tue, 03 Dec 2024 18:37:05 +0000</pubDate>

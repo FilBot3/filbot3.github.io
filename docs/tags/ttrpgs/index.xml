@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="https://filbot3.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mythic-Bastionland on Phils Blog</title>
-    <link>https://filbot3.github.io/tags/mythic-bastionland/</link>
-    <description>Recent content in Mythic-Bastionland on Phils Blog</description>
+    <title>TTRPGs on Phils Blog</title>
+    <link>https://filbot3.github.io/tags/ttrpgs/</link>
+    <description>Recent content in TTRPGs on Phils Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2024 04:19:42 +0000</lastBuildDate>
-    <atom:link href="https://filbot3.github.io/tags/mythic-bastionland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 23:11:10 +0000</lastBuildDate>
+    <atom:link href="https://filbot3.github.io/tags/ttrpgs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Enemies for Shadow of the Weird Wizard</title>
       <link>https://filbot3.github.io/posts/building-enemies-for-sotww/</link>
